@@ -7,12 +7,17 @@ import urllib2
 from bs4 import BeautifulSoup
 
 
-def import_cities():
-    #known_cities = scrape_cities()
-    #save_cities(known_cities)
-    known_cities = restore_cities()
+def prepare_geojson_cities():
+    print("input 'scrape' to re-scrape data from Natural Resources Canada.")
+    print("hit any other key to go straight to geojson generation.")
+    move = raw_input(">").lower().split()
+    if move[0] == "scrape":
+        known_cities = scrape_cities()
+        save_cities(known_cities)
+    else:
+        known_cities = restore_cities()
 
-    add_gps(known_cities)
+    add_coordinates(known_cities)
     persist_cities(known_cities)
 
 def scrape_cities():
@@ -37,7 +42,7 @@ def restore_cities():
     with open('cities.pk1', 'rb') as input:
         return pickle.load(input)
 
-def add_gps(known_cities):
+def add_coordinates(known_cities):
     try:
         with open('../static/CA.txt') as f:
             for line in f:
@@ -77,14 +82,14 @@ def persist_cities(known_cities):
         zone = c[0]
         rusticity = c[1]
         if(len(c) > 2 and len(c[2]) == 2):
-            geojson_cities.append(represent_city(city_name, c[0], c[1], c[2][0], c[2][1]))
+            geojson_cities.append(get_geojson_city(city_name, c[0], c[1], c[2][0], c[2][1]))
         else:
             print("%s has no x,y data: %s" % (city_name, c))
 
-    with open('cities.json', 'w') as f:
+    with open('../static/cities_raw.geojson', 'w') as f:
         json.dump(geojson_cities, f)
 
-def represent_city(name, zone, rusticity, x, y):
+def get_geojson_city(name, zone, rusticity, x, y):
     return {
       "type": "Feature",
       "geometry": {
@@ -99,4 +104,4 @@ def represent_city(name, zone, rusticity, x, y):
     }
 
 
-import_cities()
+prepare_geojson_citie()
