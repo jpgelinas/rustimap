@@ -2,7 +2,7 @@
 <html>
 <head>
 	
-	<title>Quick Start - Leaflet</title>
+	<title>Rustimap: Map of Plant Rusticity Zones for known Québec Municipalities</title>
 
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,10 +11,8 @@
 
 	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
 	<script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
-	<script src="/js/leaflet.ajax.min.js"></script>
+	<script src="cities.geojson" type="text/javascript"></script>
 
-
-	
 </head>
 <body>
 
@@ -33,27 +31,38 @@
 		id: 'mapbox.streets'
 	}).addTo(mymap);
 
-	L.circle([45.208, -72.177], 1000, {
-		color: 'red',
-		fillColor: '#f03',
-		fillOpacity: 0.5
-	}).addTo(mymap).bindPopup("I am a circle.");
-
-
   var myStyle = {
-		    "color": "#ff7800",
-		    "weight": 5,
-				    "opacity": 0.85
 	};
 
-var geojsonLayer = new L.GeoJSON.AJAX("cities.geojson", { pointToLayer: function(feature, latlng) { return L.circleMarker(latlng, geojsonMarkerOptions); }});
-	geojsonLayer.setStyle(myStyle);
-	geojsonLayer.addTo(mymap);
-
+L.geoJson(cities, {
+	style: myStyle,
+		pointToLayer: function (feature, latlng) {
+				var colors = {
+					'1a': 'blue',
+					'1b': 'blue',
+					'2a': 'blue',
+					'2b': 'blue',
+					'3a': 'green',
+					'3b': 'darkgreen',
+					'4a': 'yellow',
+					'4b': 'orange',
+					'4a': 'pink',
+					'5b': 'red',
+					'6a': 'white',
+				};
+						
+        return new L.circleMarker(latlng, {
+					radius: 2,
+					fillColor: colors[feature.properties.popupContent],
+					color: colors[feature.properties.popupContent],
+					weight: 5,
+					opacity: feature.properties.rusticity*0.01,
+					fillOpacity: feature.properties.rusticity*0.01
+				});
+    }
+}).addTo(mymap);
 
 </script>
-
-
 
 </body>
 </html>
