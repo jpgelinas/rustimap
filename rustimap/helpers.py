@@ -104,4 +104,4 @@ def get_geojson_city(name, zone, rusticity, x, y):
     }
 
 
-prepare_geojson_citie()
+prepare_geojson_cities()
