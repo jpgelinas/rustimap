@@ -18,7 +18,7 @@
 
 
 
-<div id="mapid" style="width: 600px; height: 400px;"></div>
+<div id="mapid" style="width: 800px; height: 600px;"></div>
 <script>
 
 	var mymap = L.map('mapid').setView([45.2618, -72.2214], 10);
@@ -34,22 +34,24 @@
   var myStyle = {
 	};
 
+
+	var colors = {
+		'1a': 'aqua',
+		'1b': 'teal',
+		'2a': 'blue',
+		'2b': 'navy',
+		'3a': 'olive',
+		'3b': 'green',
+		'4a': 'yellow',
+		'4b': 'orange',
+		'5a': 'fuchsia',
+		'5b': 'purple',
+		'6a': 'red',
+	};
+
 L.geoJson(cities, {
 	style: myStyle,
 		pointToLayer: function (feature, latlng) {
-				var colors = {
-					'1a': 'blue',
-					'1b': 'blue',
-					'2a': 'blue',
-					'2b': 'blue',
-					'3a': 'green',
-					'3b': 'darkgreen',
-					'4a': 'yellow',
-					'4b': 'orange',
-					'4a': 'pink',
-					'5b': 'red',
-					'6a': 'white',
-				};
 						
         return new L.circleMarker(latlng, {
 					radius: 2,
@@ -61,6 +63,23 @@ L.geoJson(cities, {
 				});
     }
 }).addTo(mymap);
+
+var legend = L.control({position: 'bottomleft'});
+
+legend.onAdd = function (mymap) {
+
+  var div = L.DomUtil.create('div', 'info legend');
+  var categories = ['1a','1b', '2a', '2b', '3a','3b','4a', '4b', '5a', '5b', '6a'];
+
+    for (var i = 0; i < categories.length; i++) {
+        div.innerHTML +=
+            '<i style="background-color:' + colors[categories[i]] + '"> ' +
+             (categories[i] ? categories[i] + '</i><br>' : '+');
+    }
+
+    return div;
+}
+legend.addTo(mymap);
 
 </script>
 
