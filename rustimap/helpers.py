@@ -56,8 +56,8 @@ def add_coordinates(known_cities):
                 city_name = columns[1]
                 for col in [3,4,5,6]:
                     try:
-                        x = float(columns[col])
-                        y = float(columns[col+1])
+                        y = float(columns[col])
+                        x = float(columns[col+1])
                         break
                     except ValueError:
                         pass
