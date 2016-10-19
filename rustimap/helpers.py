@@ -11,7 +11,7 @@ def prepare_geojson_cities():
     print("input 'scrape' to re-scrape data from Natural Resources Canada.")
     print("hit any other key to go straight to geojson generation.")
     move = raw_input(">").lower().split()
-    if move[0] == "scrape":
+    if len(move) and move[0] == "scrape":
         known_cities = scrape_cities()
         save_cities(known_cities)
     else:
