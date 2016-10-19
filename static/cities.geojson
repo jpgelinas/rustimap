@@ -1,0 +1,1205 @@
+{"type":"FeatureCollection","features": [{"geometry": {"type": "Point",
+"coordinates": [-74.13591, -74.13591]}, "type": "Feature", "properties":
+{"amenity": "46", "name": "Sainte-Ad\u00e8le", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-72.79904, -72.79904]}, "type":
+"Feature", "properties": {"amenity": "47", "name": "Dosquet", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-74.59284, -74.59284]},
+"type": "Feature", "properties": {"amenity": "42", "name": "Saint-Jovite",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-71.34907, -71.34907]}, "type": "Feature", "properties": {"amenity": "48",
+"name": "Disraeli", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-77.54948, -77.54948]}, "type": "Feature", "properties":
+{"amenity": "47", "name": "Saint-Malo", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-67.29887, -67.29887]}, "type": "Feature",
+"properties": {"amenity": "42", "name": "Baie-Trinit\u00e9", "popupContent":
+"4a"}}, {"geometry": {"type": "Point", "coordinates": [-72.93244, -72.93244]},
+"type": "Feature", "properties": {"amenity": "56", "name": "Ange-Gardien",
+"popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.04001, -72.04001]}, "type": "Feature", "properties": {"amenity": "51",
+"name": "Ayer's Cliff", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-53.36483, -53.36483]}, "type": "Feature", "properties":
+{"amenity": "36", "name": "Mutton Bay", "popupContent": "3b"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.4156, -72.4156]}, "type": "Feature",
+"properties": {"amenity": "27", "name": "Parent", "popupContent": "2b"}},
+{"geometry": {"type": "Point", "coordinates": [-72.23142, -72.23142]}, "type":
+"Feature", "properties": {"amenity": "29", "name": "Dolbeau-Mistassini",
+"popupContent": "2b"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.86583, -72.86583]}, "type": "Feature", "properties": {"amenity": "56",
+"name": "Saint-Hugues", "popupContent": "5b"}}, {"geometry": {"type": "Point",
+"coordinates": [-70.9837, -70.9837]}, "type": "Feature", "properties":
+{"amenity": "58", "name": "Sainte-Martine", "popupContent": "5b"}},
+{"geometry": {"type": "Point", "coordinates": [-74.08892, -74.08892]}, "type":
+"Feature", "properties": {"amenity": "57", "name": "Oka", "popupContent":
+"5b"}}, {"geometry": {"type": "Point", "coordinates": [-71.85738, -71.85738]},
+"type": "Feature", "properties": {"amenity": "50", "name": "Lennoxville",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-71.49907, -71.49907]}, "type": "Feature", "properties": {"amenity": "47",
+"name": "Bury", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-75.56593, -75.56593]}, "type": "Feature", "properties":
+{"amenity": "10", "name": "Radisson", "popupContent": "1a"}}, {"geometry":
+{"type": "Point", "coordinates": [-84.0332, -84.0332]}, "type": "Feature",
+"properties": {"amenity": "39", "name": "Desbiens", "popupContent": "3b"}},
+{"geometry": {"type": "Point", "coordinates": [-73.74918, -73.74918]}, "type":
+"Feature", "properties": {"amenity": "49", "name": "Rawdon", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-78.33286, -78.33286]},
+"type": "Feature", "properties": {"amenity": "25", "name": "Preissac",
+"popupContent": "2b"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.47336, -73.47336]}, "type": "Feature", "properties": {"amenity": "54",
+"name": "Crabtree", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-73.11585, -73.11585]}, "type": "Feature", "properties":
+{"amenity": "56", "name": "Sorel-Tracy", "popupContent": "5b"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.3491, -72.3491]}, "type": "Feature",
+"properties": {"amenity": "52", "name": "Notre-Dame-du-Bon-Conseil",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.23245, -73.23245]}, "type": "Feature", "properties": {"amenity": "57",
+"name": "Contrecoeur", "popupContent": "5b"}}, {"geometry": {"type": "Point",
+"coordinates": [-71.80268, -71.80268]}, "type": "Feature", "properties":
+{"amenity": "41", "name": "Saint-Phil\u00e9mon", "popupContent": "4a"}},
+{"geometry": {"type": "Point", "coordinates": [-78.13283, -78.13283]}, "type":
+"Feature", "properties": {"amenity": "27", "name": "Malartic", "popupContent":
+"2b"}}, {"geometry": {"type": "Point", "coordinates": [-70.58836, -70.58836]},
+"type": "Feature", "properties": {"amenity": "39", "name":
+"Sainte-Rose-du-Nord", "popupContent": "3b"}}, {"geometry": {"type": "Point",
+"coordinates": [-73.01354, -73.01354]}, "type": "Feature", "properties":
+{"amenity": "47", "name": "Saint-Paulin", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.56581, -72.56581]}, "type": "Feature",
+"properties": {"amenity": "41", "name": "Saint-Tite", "popupContent": "4a"}},
+{"geometry": {"type": "Point", "coordinates": [-55.68147, -55.68147]}, "type":
+"Feature", "properties": {"amenity": "52", "name": "Beaumont", "popupContent":
+"5a"}}, {"geometry": {"type": "Point", "coordinates": [-74.40453, -74.40453]},
+"type": "Feature", "properties": {"amenity": "52", "name": "Brownsburg",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.9934, -73.9934]}, "type": "Feature", "properties": {"amenity": "35",
+"name": "Saint-Augustin", "popupContent": "3b"}}, {"geometry": {"type":
+"Point", "coordinates": [-63.60264, -63.60264]}, "type": "Feature",
+"properties": {"amenity": "33", "name": "Havre-Saint-Pierre", "popupContent":
+"3a"}}, {"geometry": {"type": "Point", "coordinates": [-72.2991, -72.2991]},
+"type": "Feature", "properties": {"amenity": "52", "name": "L'Avenir",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-55.66492, -55.66492]}, "type": "Feature", "properties": {"amenity": "50",
+"name": "Windsor", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-68.64309, -68.64309]}, "type": "Feature", "properties":
+{"amenity": "40", "name": "D\u00e9gelis", "popupContent": "4a"}}, {"geometry":
+{"type": "Point", "coordinates": [-79.23871, -79.23871]}, "type": "Feature",
+"properties": {"amenity": "19", "name": "Beaucanton", "popupContent": "1b"}},
+{"geometry": {"type": "Point", "coordinates": [-77.23951, -77.23951]}, "type":
+"Feature", "properties": {"amenity": "25", "name": "Senneterre",
+"popupContent": "2b"}}, {"geometry": {"type": "Point", "coordinates": [-79.15,
+-79.15]}, "type": "Feature", "properties": {"amenity": "19", "name":
+"Villebois", "popupContent": "1b"}}, {"geometry": {"type": "Point",
+"coordinates": [-72.66563, -72.66563]}, "type": "Feature", "properties":
+{"amenity": "26", "name": "Didyme", "popupContent": "2b"}}, {"geometry":
+{"type": "Point", "coordinates": [-71.38239, -71.38239]}, "type": "Feature",
+"properties": {"amenity": "47", "name": "Beaulac-Garthby", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-72.39233, -72.39233]},
+"type": "Feature", "properties": {"amenity": "51", "name": "Mansonville",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-79.36635, -79.36635]}, "type": "Feature", "properties": {"amenity": "19",
+"name": "Norm\u00e9tal", "popupContent": "1b"}}, {"geometry": {"type": "Point",
+"coordinates": [-73.01584, -73.01584]}, "type": "Feature", "properties":
+{"amenity": "53", "name": "Maskinong\u00e9", "popupContent": "5a"}},
+{"geometry": {"type": "Point", "coordinates": [-76.91614, -76.91614]}, "type":
+"Feature", "properties": {"amenity": "49", "name": "Bryson", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-69.7806, -69.7806]},
+"type": "Feature", "properties": {"amenity": "41", "name": "Saint-Pamphile",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-69.94542, -69.94542]}, "type": "Feature", "properties": {"amenity": "48",
+"name": "Saint-Pac\u00f4me", "popupContent": "4b"}}, {"geometry": {"type":
+"Point", "coordinates": [-72.56942, -72.56942]}, "type": "Feature",
+"properties": {"amenity": "54", "name": "Saint-Germain-de-Grantham",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-74.81699, -74.81699]}, "type": "Feature", "properties": {"amenity": "24",
+"name": "Ouj\u00e9-Bougoumou", "popupContent": "2a"}}, {"geometry": {"type":
+"Point", "coordinates": [-75.46603, -75.46603]}, "type": "Feature",
+"properties": {"amenity": "50", "name": "Buckingham", "popupContent": "5a"}},
+{"geometry": {"type": "Point", "coordinates": [-72.95699, -72.95699]}, "type":
+"Feature", "properties": {"amenity": "56", "name": "Saint-Hyacinthe",
+"popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates":
+[-79.01602, -79.01602]}, "type": "Feature", "properties": {"amenity": "29",
+"name": "Rouyn-Noranda", "popupContent": "2b"}}, {"geometry": {"type": "Point",
+"coordinates": [-69.1697, -69.1697]}, "type": "Feature", "properties":
+{"amenity": "49", "name": "Trois-Pistoles", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-64.11536, -64.11536]}, "type":
+"Feature", "properties": {"amenity": "34", "name": "Mingan", "popupContent":
+"3a"}}, {"geometry": {"type": "Point", "coordinates": [-78.08283, -78.08283]},
+"type": "Feature", "properties": {"amenity": "37", "name": "B\u00e9arn",
+"popupContent": "3b"}}, {"geometry": {"type": "Point", "coordinates":
+[-64.71261, -64.71261]}, "type": "Feature", "properties": {"amenity": "48",
+"name": "Saint-Anselme", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-71.66577, -71.66577]}, "type": "Feature", "properties":
+{"amenity": "48", "name": "East Angus", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-70.80701, -70.80701]}, "type": "Feature",
+"properties": {"amenity": "44", "name": "Saint-Lazare-de-Bellechasse",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.64417, -73.64417]}, "type": "Feature", "properties": {"amenity": "38",
+"name": "Sainte-\u00c9m\u00e9lie-de-l'\u00c9nergie", "popupContent": "3b"}},
+{"geometry": {"type": "Point", "coordinates": [-78.11624, -78.11624]}, "type":
+"Feature", "properties": {"amenity": "23", "name": "Amos", "popupContent":
+"2a"}}, {"geometry": {"type": "Point", "coordinates": [-73.19915, -73.19915]},
+"type": "Feature", "properties": {"amenity": "58", "name": "Beloeil",
+"popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.51582, -72.51582]}, "type": "Feature", "properties": {"amenity": "53",
+"name": "Roxton Falls", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-72.93244, -72.93244]}, "type": "Feature", "properties":
+{"amenity": "56", "name": "Massueville", "popupContent": "5b"}}, {"geometry":
+{"type": "Point", "coordinates": [-75.33258, -75.33258]}, "type": "Feature",
+"properties": {"amenity": "34", "name": "Mont-Saint-Michel", "popupContent":
+"3a"}}, {"geometry": {"type": "Point", "coordinates": [-71.57275, -71.57275]},
+"type": "Feature", "properties": {"amenity": "48", "name": "Bernierville",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.84913, -72.84913]}, "type": "Feature", "properties": {"amenity": "55",
+"name": "Saint-Dominique", "popupContent": "5b"}}, {"geometry": {"type":
+"Point", "coordinates": [-71.82516, -71.82516]}, "type": "Feature",
+"properties": {"amenity": "48", "name": "Saint-Basile", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-55.08146, -55.08146]}, "type":
+"Feature", "properties": {"amenity": "46", "name": "Stanhope", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-74.15861, -74.15861]},
+"type": "Feature", "properties": {"amenity": "47", "name":
+"Saint-Sauveur-des-Monts", "popupContent": "4b"}}, {"geometry": {"type":
+"Point", "coordinates": [-76.54947, -76.54947]}, "type": "Feature",
+"properties": {"amenity": "-999", "name": "Umiujaq", "popupContent": ""}},
+{"geometry": {"type": "Point", "coordinates": [-77.79737, -77.79737]}, "type":
+"Feature", "properties": {"amenity": "28", "name": "Val-d'Or", "popupContent":
+"2b"}}, {"geometry": {"type": "Point", "coordinates": [-69.61472, -69.61472]},
+"type": "Feature", "properties": {"amenity": "0", "name": "Quaqtaq",
+"popupContent": "0a"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.18245, -73.18245]}, "type": "Feature", "properties": {"amenity": "55",
+"name": "Berthierville", "popupContent": "5b"}}, {"geometry": {"type": "Point",
+"coordinates": [-71.76201, -71.76201]}, "type": "Feature", "properties":
+{"amenity": "47", "name": "Plessisville", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-64.93199, -64.93199]}, "type": "Feature",
+"properties": {"amenity": "42", "name": "Pointe-\u00e0-la-Fr\u00e9gate",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.64912, -72.64912]}, "type": "Feature", "properties": {"amenity": "47",
+"name": "Notre-Dame-du-Mont-Carmel", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.1991, -72.1991]}, "type": "Feature",
+"properties": {"amenity": "48", "name": "Saint-Pierre-les-Becquets",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-78.19935, -78.19935]}, "type": "Feature", "properties": {"amenity": "-999",
+"name": "Akulivik", "popupContent": ""}}, {"geometry": {"type": "Point",
+"coordinates": [-69.54603, -69.54603]}, "type": "Feature", "properties":
+{"amenity": "47", "name": "Grandes-Bergeronnes", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-63.98203, -63.98203]}, "type":
+"Feature", "properties": {"amenity": "50", "name": "Richmond", "popupContent":
+"5a"}}, {"geometry": {"type": "Point", "coordinates": [-71.66578, -71.66578]},
+"type": "Feature", "properties": {"amenity": "47", "name": "Ham-Nord",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.40416, -73.40416]}, "type": "Feature", "properties": {"amenity": "42",
+"name": "Saint-Cyprien", "popupContent": "4a"}}, {"geometry": {"type": "Point",
+"coordinates": [-70.85074, -70.85074]}, "type": "Feature", "properties":
+{"amenity": "53", "name": "La Durantaye", "popupContent": "5a"}}, {"geometry":
+{"type": "Point", "coordinates": [-78.31626, -78.31626]}, "type": "Feature",
+"properties": {"amenity": "27", "name": "Cadillac", "popupContent": "2b"}},
+{"geometry": {"type": "Point", "coordinates": [-72.88053, -72.88053]}, "type":
+"Feature", "properties": {"amenity": "50", "name": "Saint-Barnab\u00e9-Nord",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.51581, -72.51581]}, "type": "Feature", "properties": {"amenity": "51",
+"name": "Lac-Brome", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-79.18293, -79.18293]}, "type": "Feature", "properties":
+{"amenity": "23", "name": "Palmarolle", "popupContent": "2a"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.18244, -72.18244]}, "type": "Feature",
+"properties": {"amenity": "33", "name": "Lac-Bouchette", "popupContent":
+"3a"}}, {"geometry": {"type": "Point", "coordinates": [-72.3158, -72.3158]},
+"type": "Feature", "properties": {"amenity": "49", "name": "Eastman",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-74.28252, -74.28252]}, "type": "Feature", "properties": {"amenity": "42",
+"name": "Sainte-Agathe-des-Monts", "popupContent": "4a"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.28245, -72.28245]}, "type": "Feature",
+"properties": {"amenity": "36", "name": "Roberval", "popupContent": "3b"}},
+{"geometry": {"type": "Point", "coordinates": [-72.48221, -72.48221]}, "type":
+"Feature", "properties": {"amenity": "54", "name": "Drummondville",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-71.71579, -71.71579]}, "type": "Feature", "properties": {"amenity": "48",
+"name": "Saint-Adrien", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-70.91573, -70.91573]}, "type": "Feature", "properties":
+{"amenity": "45", "name": "Woburn", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-78.99962, -78.99962]}, "type": "Feature",
+"properties": {"amenity": "21", "name": "Macamic", "popupContent": "2a"}},
+{"geometry": {"type": "Point", "coordinates": [-75.41355, -75.41355]}, "type":
+"Feature", "properties": {"amenity": "52", "name": "Masson-Angers",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.49911, -72.49911]}, "type": "Feature", "properties": {"amenity": "41",
+"name": "Sainte-Th\u00e8cle", "popupContent": "4a"}}, {"geometry": {"type":
+"Point", "coordinates": [-71.96189, -71.96189]}, "type": "Feature",
+"properties": {"amenity": "40", "name": "Saint-Zacharie", "popupContent":
+"4a"}}, {"geometry": {"type": "Point", "coordinates": [-70.80725, -70.80725]},
+"type": "Feature", "properties": {"amenity": "54", "name": "Saint-Vallier",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-74.84919, -74.84919]}, "type": "Feature", "properties": {"amenity": "24",
+"name": "Chapais", "popupContent": "2a"}}, {"geometry": {"type": "Point",
+"coordinates": [-73.99342, -73.99342]}, "type": "Feature", "properties":
+{"amenity": "57", "name": "Ormstown", "popupContent": "5b"}}, {"geometry":
+{"type": "Point", "coordinates": [-76.4827, -76.4827]}, "type": "Feature",
+"properties": {"amenity": "48", "name": "Shawville", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-80.38647, -80.38647]}, "type":
+"Feature", "properties": {"amenity": "44", "name": "Forestville",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-71.51258, -71.51258]}, "type": "Feature", "properties": {"amenity": "49",
+"name": "Saint-Apollinaire", "popupContent": "4b"}}, {"geometry": {"type":
+"Point", "coordinates": [-72.79913, -72.79913]}, "type": "Feature",
+"properties": {"amenity": "55", "name": "Dunham", "popupContent": "5b"}},
+{"geometry": {"type": "Point", "coordinates": [-70.89905, -70.89905]}, "type":
+"Feature", "properties": {"amenity": "40", "name": "Saint-Fulgence",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-64.68931, -64.68931]}, "type": "Feature", "properties": {"amenity": "51",
+"name": "Waterloo", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-74.86598, -74.86598]}, "type": "Feature", "properties":
+{"amenity": "53", "name": "Fassett", "popupContent": "5a"}}, {"geometry":
+{"type": "Point", "coordinates": [-64.69875, -64.69875]}, "type": "Feature",
+"properties": {"amenity": "58", "name": "Saint-Gr\u00e9goire", "popupContent":
+"5b"}}, {"geometry": {"type": "Point", "coordinates": [-73.90554, -73.90554]},
+"type": "Feature", "properties": {"amenity": "58", "name": "Saint-Eustache",
+"popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates": [-70.324,
+-70.324]}, "type": "Feature", "properties": {"amenity": "45", "name": "Les
+\u00c9boulements", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-74.08561, -74.08561]}, "type": "Feature", "properties":
+{"amenity": "49", "name": "Pr\u00e9vost", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.41581, -72.41581]}, "type": "Feature",
+"properties": {"amenity": "51", "name": "Stukely-Sud", "popupContent": "5a"}},
+{"geometry": {"type": "Point", "coordinates": [-74.91597, -74.91597]}, "type":
+"Feature", "properties": {"amenity": "39", "name": "Labelle", "popupContent":
+"3b"}}, {"geometry": {"type": "Point", "coordinates": [-77.91592, -77.91592]},
+"type": "Feature", "properties": {"amenity": "0", "name": "Ivujivik",
+"popupContent": "0a"}}, {"geometry": {"type": "Point", "coordinates":
+[-67.94082, -67.94082]}, "type": "Feature", "properties": {"amenity": "29",
+"name": "Mistassini", "popupContent": "2b"}}, {"geometry": {"type": "Point",
+"coordinates": [-65.95247, -65.95247]}, "type": "Feature", "properties":
+{"amenity": "6", "name": "Kangiqsualujjuaq", "popupContent": "0b"}},
+{"geometry": {"type": "Point", "coordinates": [-74.93258, -74.93258]}, "type":
+"Feature", "properties": {"amenity": "43", "name": "Namur", "popupContent":
+"4a"}}, {"geometry": {"type": "Point", "coordinates": [-71.57487, -71.57487]},
+"type": "Feature", "properties": {"amenity": "47", "name": "Bishopton",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-71.83237, -71.83237]}, "type": "Feature", "properties": {"amenity": "51",
+"name": "Compton", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-61.8465, -61.8465]}, "type": "Feature", "properties":
+{"amenity": "60", "name": "Havre-Aubert", "popupContent": "6a"}}, {"geometry":
+{"type": "Point", "coordinates": [-80.483, -80.483]}, "type": "Feature",
+"properties": {"amenity": "47", "name": "Kelly", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-70.93235, -70.93235]}, "type":
+"Feature", "properties": {"amenity": "45", "name": "La Guadeloupe",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-71.93239, -71.93239]}, "type": "Feature", "properties": {"amenity": "48",
+"name": "Lotbini\u00e8re", "popupContent": "4b"}}, {"geometry": {"type":
+"Point", "coordinates": [-72.3658, -72.3658]}, "type": "Feature", "properties":
+{"amenity": "51", "name": "Saint-L\u00e9onard-d'Aston", "popupContent": "5a"}},
+{"geometry": {"type": "Point", "coordinates": [-72.1991, -72.1991]}, "type":
+"Feature", "properties": {"amenity": "47", "name":
+"Sainte-Anne-de-la-P\u00e9rade", "popupContent": "4b"}}, {"geometry": {"type":
+"Point", "coordinates": [-68.07773, -68.07773]}, "type": "Feature",
+"properties": {"amenity": "46", "name": "Sainte-Ang\u00e8le-de-M\u00e9rici",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-77.88281, -77.88281]}, "type": "Feature", "properties": {"amenity": "26",
+"name": "La Corne", "popupContent": "2b"}}, {"geometry": {"type": "Point",
+"coordinates": [-71.67927, -71.67927]}, "type": "Feature", "properties":
+{"amenity": "37", "name": "H\u00e9bertville", "popupContent": "3b"}},
+{"geometry": {"type": "Point", "coordinates": [-70.46, -70.46]}, "type":
+"Feature", "properties": {"amenity": "52", "name": "Cap-Saint-Ignace",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-70.77873, -70.77873]}, "type": "Feature", "properties": {"amenity": "45",
+"name": "Beauceville", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-72.56582, -72.56582]}, "type": "Feature", "properties":
+{"amenity": "53", "name": "Acton Vale", "popupContent": "5a"}}, {"geometry":
+{"type": "Point", "coordinates": [-64.70713, -64.70713]}, "type": "Feature",
+"properties": {"amenity": "57", "name": "Saint-Jean-Baptiste", "popupContent":
+"5b"}}, {"geometry": {"type": "Point", "coordinates": [-60.67616, -60.67616]},
+"type": "Feature", "properties": {"amenity": "-999", "name": "La Romaine",
+"popupContent": ""}}, {"geometry": {"type": "Point", "coordinates": [-64.32574,
+-64.32574]}, "type": "Feature", "properties": {"amenity": "42", "name":
+"Perc\u00e9", "popupContent": "4a"}}, {"geometry": {"type": "Point",
+"coordinates": [-62.53194, -62.53194]}, "type": "Feature", "properties":
+{"amenity": "54", "name": "Upton", "popupContent": "5a"}}, {"geometry":
+{"type": "Point", "coordinates": [-78.98291, -78.98291]}, "type": "Feature",
+"properties": {"amenity": "44", "name": "Kipawa", "popupContent": "4a"}},
+{"geometry": {"type": "Point", "coordinates": [-71.9824, -71.9824]}, "type":
+"Feature", "properties": {"amenity": "50", "name": "Warwick", "popupContent":
+"5a"}}, {"geometry": {"type": "Point", "coordinates": [-75.03257, -75.03257]},
+"type": "Feature", "properties": {"amenity": "39", "name": "Nominingue",
+"popupContent": "3b"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.61582, -72.61582]}, "type": "Feature", "properties": {"amenity": "54",
+"name": "Nicolet", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-73.43246, -73.43246]}, "type": "Feature", "properties":
+{"amenity": "59", "name": "Varennes", "popupContent": "5b"}}, {"geometry":
+{"type": "Point", "coordinates": [-73.74919, -73.74919]}, "type": "Feature",
+"properties": {"amenity": "60", "name": "Ch\u00e2teauguay", "popupContent":
+"6a"}}, {"geometry": {"type": "Point", "coordinates": [-75.61602, -75.61602]},
+"type": "Feature", "properties": {"amenity": "44", "name":
+"Notre-Dame-du-Laus", "popupContent": "4a"}}, {"geometry": {"type": "Point",
+"coordinates": [-74.48253, -74.48253]}, "type": "Feature", "properties":
+{"amenity": "40", "name": "Lac-Carr\u00e9", "popupContent": "4a"}},
+{"geometry": {"type": "Point", "coordinates": [-68.39968, -68.39968]}, "type":
+"Feature", "properties": {"amenity": "4", "name": "Kuujjuaq", "popupContent":
+"0a"}}, {"geometry": {"type": "Point", "coordinates": [-72.81583, -72.81583]},
+"type": "Feature", "properties": {"amenity": "47", "name":
+"Saint-Boniface-de-Shawinigan", "popupContent": "4b"}}, {"geometry": {"type":
+"Point", "coordinates": [-79.43296, -79.43296]}, "type": "Feature",
+"properties": {"amenity": "35", "name": "N\u00e9d\u00e9lec", "popupContent":
+"3b"}}, {"geometry": {"type": "Point", "coordinates": [-71.91578, -71.91578]},
+"type": "Feature", "properties": {"amenity": "48", "name": "Barnston",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates": [-76.25,
+-76.25]}, "type": "Feature", "properties": {"amenity": "16", "name":
+"Nemiscau", "popupContent": "1b"}}, {"geometry": {"type": "Point",
+"coordinates": [-68.67777, -68.67777]}, "type": "Feature", "properties":
+{"amenity": "42", "name": "Lac-des-Aigles", "popupContent": "4a"}},
+{"geometry": {"type": "Point", "coordinates": [-69.849, -69.849]}, "type":
+"Feature", "properties": {"amenity": "39", "name": "Saguenay", "popupContent":
+"3b"}}, {"geometry": {"type": "Point", "coordinates": [-70.65541, -70.65541]},
+"type": "Feature", "properties": {"amenity": "43", "name":
+"Saint-Damien-de-Buckland", "popupContent": "4a"}}, {"geometry": {"type":
+"Point", "coordinates": [-71.44908, -71.44908]}, "type": "Feature",
+"properties": {"amenity": "46", "name": "Weedon", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-61.86216, -61.86216]}, "type":
+"Feature", "properties": {"amenity": "59", "name": "Cap-aux-Meules",
+"popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates":
+[-76.03265, -76.03265]}, "type": "Feature", "properties": {"amenity": "44",
+"name": "Bouchette", "popupContent": "4a"}}, {"geometry": {"type": "Point",
+"coordinates": [-77.76243, -77.76243]}, "type": "Feature", "properties":
+{"amenity": "8", "name": "Kuujjuarapik", "popupContent": "0b"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.42131, -72.42131]}, "type": "Feature",
+"properties": {"amenity": "53", "name": "Saint-Nic\u00e9phore", "popupContent":
+"5a"}}, {"geometry": {"type": "Point", "coordinates": [-70.92833, -70.92833]},
+"type": "Feature", "properties": {"amenity": "52", "name":
+"Sainte-Anne-de-Beaupr\u00e9", "popupContent": "5a"}}, {"geometry": {"type":
+"Point", "coordinates": [-73.72478, -73.72478]}, "type": "Feature",
+"properties": {"amenity": "43", "name": "Saint-Martin", "popupContent": "4a"}},
+{"geometry": {"type": "Point", "coordinates": [-74.40784, -74.40784]}, "type":
+"Feature", "properties": {"amenity": "41", "name": "Sainte-Justine",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-71.24795, -71.24795]}, "type": "Feature", "properties": {"amenity": "45",
+"name": "La Patrie", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-73.15695, -73.15695]}, "type": "Feature", "properties":
+{"amenity": "57", "name": "Saint-Denis-sur-Richelieu", "popupContent": "5b"}},
+{"geometry": {"type": "Point", "coordinates": [-69.13333, -69.13333]}, "type":
+"Feature", "properties": {"amenity": "39", "name":
+"Saint-Honor\u00e9-de-T\u00e9miscouata", "popupContent": "3b"}}, {"geometry":
+{"type": "Point", "coordinates": [-76.11606, -76.11606]}, "type": "Feature",
+"properties": {"amenity": "39", "name": "La Tuque", "popupContent": "3b"}},
+{"geometry": {"type": "Point", "coordinates": [-72.74883, -72.74883]}, "type":
+"Feature", "properties": {"amenity": "48", "name": "Saint-Bernard",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-75.05489, -75.05489]}, "type": "Feature", "properties": {"amenity": "47",
+"name": "Saint-Andr\u00e9-Avellin", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-74.13253, -74.13253]}, "type": "Feature",
+"properties": {"amenity": "57", "name": "Salaberry-de-Valleyfield",
+"popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.14915, -73.14915]}, "type": "Feature", "properties": {"amenity": "56",
+"name": "Saint-Ours", "popupContent": "5b"}}, {"geometry": {"type": "Point",
+"coordinates": [-63.77932, -63.77932]}, "type": "Feature", "properties":
+{"amenity": "50", "name": "Sherbrooke", "popupContent": "5a"}}, {"geometry":
+{"type": "Point", "coordinates": [-73.00834, -73.00834]}, "type": "Feature",
+"properties": {"amenity": "57", "name": "Saint-Damase", "popupContent": "5b"}},
+{"geometry": {"type": "Point", "coordinates": [-73.31635, -73.31635]}, "type":
+"Feature", "properties": {"amenity": "56", "name": "Lanoraie", "popupContent":
+"5b"}}, {"geometry": {"type": "Point", "coordinates": [-66.06546, -66.06546]},
+"type": "Feature", "properties": {"amenity": "38", "name": "Moisie",
+"popupContent": "3b"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.64904, -72.64904]}, "type": "Feature", "properties": {"amenity": "29",
+"name": "La Dor\u00e9", "popupContent": "2b"}}, {"geometry": {"type": "Point",
+"coordinates": [-71.63647, -71.63647]}, "type": "Feature", "properties":
+{"amenity": "48", "name": "Laurier-Station", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-68.55369, -68.55369]}, "type":
+"Feature", "properties": {"amenity": "40", "name": "Biencourt", "popupContent":
+"4a"}}, {"geometry": {"type": "Point", "coordinates": [-72.73243, -72.73243]},
+"type": "Feature", "properties": {"amenity": "55", "name": "Granby",
+"popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates":
+[-70.50682, -70.50682]}, "type": "Feature", "properties": {"amenity": "42",
+"name": "Lac-Etchemin", "popupContent": "4a"}}, {"geometry": {"type": "Point",
+"coordinates": [-78.30703, -78.30703]}, "type": "Feature", "properties":
+{"amenity": "20", "name": "Joutel", "popupContent": "2a"}}, {"geometry":
+{"type": "Point", "coordinates": [-69.882, -69.882]}, "type": "Feature",
+"properties": {"amenity": "48", "name": "Saint-Philippe-de-N\u00e9ri",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-75.1493, -75.1493]}, "type": "Feature", "properties": {"amenity": "46",
+"name": "Ripon", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-73.43245, -73.43245]}, "type": "Feature", "properties":
+{"amenity": "48", "name": "Saint-F\u00e9lix-de-Valois", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-69.58396, -69.58396]}, "type":
+"Feature", "properties": {"amenity": "46", "name":
+"Saint-Alexandre-de-Kamouraska", "popupContent": "4b"}}, {"geometry": {"type":
+"Point", "coordinates": [-79.09712, -79.09712]}, "type": "Feature",
+"properties": {"amenity": "46", "name": "T\u00e9miscaming", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-72.50455, -72.50455]},
+"type": "Feature", "properties": {"amenity": "43", "name": "Proulxville",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-68.52396, -68.52396]}, "type": "Feature", "properties": {"amenity": "50",
+"name": "Rimouski", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-66.38208, -66.38208]}, "type": "Feature", "properties":
+{"amenity": "39", "name": "Sept-\u00celes", "popupContent": "3b"}},
+{"geometry": {"type": "Point", "coordinates": [-73.34916, -73.34916]}, "type":
+"Feature", "properties": {"amenity": "57", "name": "Verch\u00e8res",
+"popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates":
+[-65.54366, -65.54366]}, "type": "Feature", "properties": {"amenity": "42",
+"name": "Gros-Morne", "popupContent": "4a"}}, {"geometry": {"type": "Point",
+"coordinates": [-75.44929, -75.44929]}, "type": "Feature", "properties":
+{"amenity": "37", "name": "Ferme-Neuve", "popupContent": "3b"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.44825, -72.44825]}, "type": "Feature",
+"properties": {"amenity": "32", "name": "Saint-F\u00e9licien", "popupContent":
+"3a"}}, {"geometry": {"type": "Point", "coordinates": [-71.59018, -71.59018]},
+"type": "Feature", "properties": {"amenity": "47", "name": "Marbleton",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-69.80301, -69.80301]}, "type": "Feature", "properties": {"amenity": "47",
+"name": "Saint-Pascal", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-59.32139, -59.32139]}, "type": "Feature", "properties":
+{"amenity": "37", "name": "T\u00eate-\u00e0-la-Baleine", "popupContent":
+"3b"}}, {"geometry": {"type": "Point", "coordinates": [-79.28333, -79.28333]},
+"type": "Feature", "properties": {"amenity": "20", "name": "Val-Paradis",
+"popupContent": "2a"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.88249, -73.88249]}, "type": "Feature", "properties": {"amenity": "55",
+"name": "Blainville", "popupContent": "5b"}}, {"geometry": {"type": "Point",
+"coordinates": [-71.79907, -71.79907]}, "type": "Feature", "properties":
+{"amenity": "48", "name": "Coaticook", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.94145, -72.94145]}, "type": "Feature",
+"properties": {"amenity": "53", "name": "Louiseville", "popupContent": "5a"}},
+{"geometry": {"type": "Point", "coordinates": [-73.33246, -73.33246]}, "type":
+"Feature", "properties": {"amenity": "59", "name": "Sainte-Julie",
+"popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates":
+[-70.99351, -70.99351]}, "type": "Feature", "properties": {"amenity": "45",
+"name": "Tring-Jonction", "popupContent": "4b"}}, {"geometry": {"type":
+"Point", "coordinates": [-71.35517, -71.35517]}, "type": "Feature",
+"properties": {"amenity": "49", "name": "Sainte-Luce", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-70.15268, -70.15268]}, "type":
+"Feature", "properties": {"amenity": "44", "name": "La Malbaie",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.34911, -72.34911]}, "type": "Feature", "properties": {"amenity": "51",
+"name": "Valcourt", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-66.86545, -66.86545]}, "type": "Feature", "properties":
+{"amenity": "40", "name": "Port-Cartier", "popupContent": "4a"}}, {"geometry":
+{"type": "Point", "coordinates": [-61.29853, -61.29853]}, "type": "Feature",
+"properties": {"amenity": "48", "name": "Princeville", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-71.84549, -71.84549]}, "type":
+"Feature", "properties": {"amenity": "44", "name": "Saint-Georges",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.01578, -72.01578]}, "type": "Feature", "properties": {"amenity": "50",
+"name": "Hatley", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-79.43297, -79.43297]}, "type": "Feature", "properties":
+{"amenity": "38", "name": "Ville-Marie", "popupContent": "3b"}}, {"geometry":
+{"type": "Point", "coordinates": [-79.23294, -79.23294]}, "type": "Feature",
+"properties": {"amenity": "27", "name": "Duparquet", "popupContent": "2b"}},
+{"geometry": {"type": "Point", "coordinates": [-66.83183, -66.83183]}, "type":
+"Feature", "properties": {"amenity": "7", "name": "Schefferville",
+"popupContent": "0b"}}, {"geometry": {"type": "Point", "coordinates":
+[-68.19894, -68.19894]}, "type": "Feature", "properties": {"amenity": "41",
+"name": "Pointe-Lebel", "popupContent": "4a"}}, {"geometry": {"type": "Point",
+"coordinates": [-77.27406, -77.27406]}, "type": "Feature", "properties":
+{"amenity": "0", "name": "Puvirnituq", "popupContent": "0a"}}, {"geometry":
+{"type": "Point", "coordinates": [-74.66595, -74.66595]}, "type": "Feature",
+"properties": {"amenity": "54", "name": "Grenville", "popupContent": "5a"}},
+{"geometry": {"type": "Point", "coordinates": [-65.49259, -65.49259]}, "type":
+"Feature", "properties": {"amenity": "-999", "name": "Bonaventure",
+"popupContent": ""}}, {"geometry": {"type": "Point", "coordinates": [-76.015,
+-76.015]}, "type": "Feature", "properties": {"amenity": "52", "name":
+"Luskville", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-74.93737, -74.93737]}, "type": "Feature", "properties":
+{"amenity": "47", "name": "Sainte-Marie", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-74.03251, -74.03251]}, "type": "Feature",
+"properties": {"amenity": "58", "name": "Vaudreuil-Dorion", "popupContent":
+"5b"}}, {"geometry": {"type": "Point", "coordinates": [-73.37335, -73.37335]},
+"type": "Feature", "properties": {"amenity": "57", "name": "Lacolle",
+"popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates":
+[-76.21083, -76.21083]}, "type": "Feature", "properties": {"amenity": "46",
+"name": "Lac-des-Loups", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-73.89729, -73.89729]}, "type": "Feature", "properties":
+{"amenity": "48", "name": "Saint-Agapit", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-68.01395, -68.01395]}, "type": "Feature",
+"properties": {"amenity": "47", "name": "M\u00e9tis-sur-Mer", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-77.63759, -77.63759]},
+"type": "Feature", "properties": {"amenity": "25", "name": "Barraute",
+"popupContent": "2b"}}, {"geometry": {"type": "Point", "coordinates":
+[-70.88234, -70.88234]}, "type": "Feature", "properties": {"amenity": "45",
+"name": "Lac-M\u00e9gantic", "popupContent": "4b"}}, {"geometry": {"type":
+"Point", "coordinates": [-79.41636, -79.41636]}, "type": "Feature",
+"properties": {"amenity": "23", "name": "La Reine", "popupContent": "2a"}},
+{"geometry": {"type": "Point", "coordinates": [-72.66162, -72.66162]}, "type":
+"Feature", "properties": {"amenity": "54", "name": "Roxton Pond",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-71.76581, -71.76581]}, "type": "Feature", "properties": {"amenity": "43",
+"name": "Saint-G\u00e9d\u00e9on", "popupContent": "4a"}}, {"geometry": {"type":
+"Point", "coordinates": [-73.78248, -73.78248]}, "type": "Feature",
+"properties": {"amenity": "37", "name": "Saint-C\u00f4me", "popupContent":
+"3b"}}, {"geometry": {"type": "Point", "coordinates": [-70.91881, -70.91881]},
+"type": "Feature", "properties": {"amenity": "47", "name":
+"Vall\u00e9e-Jonction", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-67.23718, -67.23718]}, "type": "Feature", "properties":
+{"amenity": "35", "name": "Sainte-Florence", "popupContent": "3b"}},
+{"geometry": {"type": "Point", "coordinates": [-79.41636, -79.41636]}, "type":
+"Feature", "properties": {"amenity": "37", "name": "Guigues", "popupContent":
+"3b"}}, {"geometry": {"type": "Point", "coordinates": [-53.7814, -53.7814]},
+"type": "Feature", "properties": {"amenity": "51", "name": "Waterville",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-65.5006, -65.5006]}, "type": "Feature", "properties": {"amenity": "33",
+"name": "Murdochville", "popupContent": "3a"}}, {"geometry": {"type": "Point",
+"coordinates": [-72.2324, -72.2324]}, "type": "Feature", "properties":
+{"amenity": "52", "name": "Sainte-Clotilde-de-Horton", "popupContent": "5a"}},
+{"geometry": {"type": "Point", "coordinates": [-70.48233, -70.48233]}, "type":
+"Feature", "properties": {"amenity": "42", "name": "Saint-Th\u00e9ophile",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.58781, -73.58781]}, "type": "Feature", "properties": {"amenity": "60",
+"name": "Montr\u00e9al", "popupContent": "6a"}}, {"geometry": {"type": "Point",
+"coordinates": [-72.0158, -72.0158]}, "type": "Feature", "properties":
+{"amenity": "50", "name": "Danville", "popupContent": "5a"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.71583, -72.71583]}, "type": "Feature",
+"properties": {"amenity": "54", "name": "Baie-du-Febvre", "popupContent":
+"5a"}}, {"geometry": {"type": "Point", "coordinates": [-69.86631, -69.86631]},
+"type": "Feature", "properties": {"amenity": "48", "name": "Kamouraska",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.2658, -72.2658]}, "type": "Feature", "properties": {"amenity": "43",
+"name": "Saint-Ubalde", "popupContent": "4a"}}, {"geometry": {"type": "Point",
+"coordinates": [-72.83243, -72.83243]}, "type": "Feature", "properties":
+{"amenity": "55", "name": "Frelighsburg", "popupContent": "5b"}}, {"geometry":
+{"type": "Point", "coordinates": [-69.22352, -69.22352]}, "type": "Feature",
+"properties": {"amenity": "41", "name": "Estcourt", "popupContent": "4a"}},
+{"geometry": {"type": "Point", "coordinates": [-64.99648, -64.99648]}, "type":
+"Feature", "properties": {"amenity": "47", "name": "Price", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-73.66587, -73.66587]},
+"type": "Feature", "properties": {"amenity": "53", "name": "Joliette",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-70.49858, -70.49858]}, "type": "Feature", "properties": {"amenity": "49",
+"name": "Baie-Saint-Paul", "popupContent": "4b"}}, {"geometry": {"type":
+"Point", "coordinates": [-71.83238, -71.83238]}, "type": "Feature",
+"properties": {"amenity": "48", "name": "Stoke", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-74.59424, -74.59424]}, "type":
+"Feature", "properties": {"amenity": "40", "name": "Mont-Tremblant",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-70.17719, -70.17719]}, "type": "Feature", "properties": {"amenity": "50",
+"name": "Saint-Roch-des-Aulnaies", "popupContent": "5a"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.73243, -72.73243]}, "type": "Feature",
+"properties": {"amenity": "54", "name": "Sainte-H\u00e9l\u00e8ne-de-Bagot",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.68248, -73.68248]}, "type": "Feature", "properties": {"amenity": "48",
+"name": "Saint-Isidore", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-75.01619, -75.01619]}, "type": "Feature", "properties":
+{"amenity": "52", "name": "Papineauville", "popupContent": "5a"}}, {"geometry":
+{"type": "Point", "coordinates": [-73.75749, -73.75749]}, "type": "Feature",
+"properties": {"amenity": "57", "name": "Saint-Chrysostome", "popupContent":
+"5b"}}, {"geometry": {"type": "Point", "coordinates": [-71.96026, -71.96026]},
+"type": "Feature", "properties": {"amenity": "0", "name": "Kangiqsujuaq",
+"popupContent": "0a"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.28105, -73.28105]}, "type": "Feature", "properties": {"amenity": "56",
+"name": "Lavaltrie", "popupContent": "5b"}}, {"geometry": {"type": "Point",
+"coordinates": [-71.62907, -71.62907]}, "type": "Feature", "properties":
+{"amenity": "48", "name": "Cookshire", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.08221, -72.08221]}, "type": "Feature",
+"properties": {"amenity": "29", "name": "Sainte-Jeanne-d'Arc", "popupContent":
+"2b"}}, {"geometry": {"type": "Point", "coordinates": [-73.18555, -73.18555]},
+"type": "Feature", "properties": {"amenity": "57", "name":
+"Saint-Charles-sur-Richelieu", "popupContent": "5b"}}, {"geometry": {"type":
+"Point", "coordinates": [-72.74603, -72.74603]}, "type": "Feature",
+"properties": {"amenity": "50", "name": "Sainte-Croix", "popupContent": "5a"}},
+{"geometry": {"type": "Point", "coordinates": [-74.99037, -74.99037]}, "type":
+"Feature", "properties": {"amenity": "38", "name": "Sainte-V\u00e9ronique",
+"popupContent": "3b"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.3324, -72.3324]}, "type": "Feature", "properties": {"amenity": "50",
+"name": "Saint-Wenceslas", "popupContent": "5a"}}, {"geometry": {"type":
+"Point", "coordinates": [-74.16593, -74.16593]}, "type": "Feature",
+"properties": {"amenity": "56", "name": "Huntingdon", "popupContent": "5b"}},
+{"geometry": {"type": "Point", "coordinates": [-74.33253, -74.33253]}, "type":
+"Feature", "properties": {"amenity": "54", "name": "Saint-Andr\u00e9-Est",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-79.14243, -79.14243]}, "type": "Feature", "properties": {"amenity": "46",
+"name": "Sainte-Claire", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-73.692, -73.692]}, "type": "Feature", "properties":
+{"amenity": "60", "name": "Laval", "popupContent": "6a"}}, {"geometry":
+{"type": "Point", "coordinates": [-79.19964, -79.19964]}, "type": "Feature",
+"properties": {"amenity": "32", "name": "R\u00e9migny", "popupContent": "3a"}},
+{"geometry": {"type": "Point", "coordinates": [-72.33241, -72.33241]}, "type":
+"Feature", "properties": {"amenity": "51", "name": "Durham-Sud",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-69.22666, -69.22666]}, "type": "Feature", "properties": {"amenity": "39",
+"name": "Poh\u00e9n\u00e9gamook", "popupContent": "3b"}}, {"geometry": {"type":
+"Point", "coordinates": [-66.86155, -66.86155]}, "type": "Feature",
+"properties": {"amenity": "57", "name": "Saint-Alexandre", "popupContent":
+"5b"}}, {"geometry": {"type": "Point", "coordinates": [-80.36642, -80.36642]},
+"type": "Feature", "properties": {"amenity": "44", "name": "Armagh",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.03239, -72.03239]}, "type": "Feature", "properties": {"amenity": "47",
+"name": "Fortierville", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-74.64537, -74.64537]}, "type": "Feature", "properties":
+{"amenity": "58", "name": "Saint-R\u00e9gis", "popupContent": "5b"}},
+{"geometry": {"type": "Point", "coordinates": [-72.42521, -72.42521]}, "type":
+"Feature", "properties": {"amenity": "54", "name": "Saint-Cyrille-de-Wendover",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-69.0236, -69.0236]}, "type": "Feature", "properties": {"amenity": "45",
+"name": "Les Escoumins", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-75.70164, -75.70164]}, "type": "Feature", "properties":
+{"amenity": "53", "name": "Gatineau", "popupContent": "5a"}}, {"geometry":
+{"type": "Point", "coordinates": [-75.96605, -75.96605]}, "type": "Feature",
+"properties": {"amenity": "43", "name": "Maniwaki", "popupContent": "4a"}},
+{"geometry": {"type": "Point", "coordinates": [-71.94348, -71.94348]}, "type":
+"Feature", "properties": {"amenity": "50", "name": "Bromptonville",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-71.84911, -71.84911]}, "type": "Feature", "properties": {"amenity": "32",
+"name": "Sainte-Monique", "popupContent": "3a"}}, {"geometry": {"type":
+"Point", "coordinates": [-71.69566, -71.69566]}, "type": "Feature",
+"properties": {"amenity": "48", "name": "Pont-Rouge", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-71.99909, -71.99909]}, "type":
+"Feature", "properties": {"amenity": "46", "name": "Manseau", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-73.64732, -73.64732]},
+"type": "Feature", "properties": {"amenity": "58", "name": "Terrebonne",
+"popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates":
+[-68.19214, -68.19214]}, "type": "Feature", "properties": {"amenity": "47",
+"name": "Mont-Joli", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-71.08236, -71.08236]}, "type": "Feature", "properties":
+{"amenity": "35", "name": "Saint-Honor\u00e9", "popupContent": "3b"}},
+{"geometry": {"type": "Point", "coordinates": [-75.83265, -75.83265]}, "type":
+"Feature", "properties": {"amenity": "55", "name": "Hull", "popupContent":
+"5b"}}, {"geometry": {"type": "Point", "coordinates": [-70.93974, -70.93974]},
+"type": "Feature", "properties": {"amenity": "50", "name":
+"Saint-Charles-de-Bellechasse", "popupContent": "5a"}}, {"geometry": {"type":
+"Point", "coordinates": [-77.74951, -77.74951]}, "type": "Feature",
+"properties": {"amenity": "8", "name": "Whapmagoostui", "popupContent": "0b"}},
+{"geometry": {"type": "Point", "coordinates": [-71.24884, -71.24884]}, "type":
+"Feature", "properties": {"amenity": "36", "name": "Jonqui\u00e8re",
+"popupContent": "3b"}}, {"geometry": {"type": "Point", "coordinates":
+[-64.48194, -64.48194]}, "type": "Feature", "properties": {"amenity": "42",
+"name": "Gasp\u00e9", "popupContent": "4a"}}, {"geometry": {"type": "Point",
+"coordinates": [-65.68711, -65.68711]}, "type": "Feature", "properties":
+{"amenity": "48", "name": "Coleraine", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-63.66732, -63.66732]}, "type": "Feature",
+"properties": {"amenity": "57", "name": "Bedford", "popupContent": "5b"}},
+{"geometry": {"type": "Point", "coordinates": [-69.34064, -69.34064]}, "type":
+"Feature", "properties": {"amenity": "50", "name": "L'Isle-Verte",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-70.36091, -70.36091]}, "type": "Feature", "properties": {"amenity": "39",
+"name": "Saint-Paul-de-Montminy", "popupContent": "3b"}}, {"geometry": {"type":
+"Point", "coordinates": [-75.83265, -75.83265]}, "type": "Feature",
+"properties": {"amenity": "49", "name": "Wakefield", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-68.39896, -68.39896]}, "type":
+"Feature", "properties": {"amenity": "41", "name": "Chute-aux-Outardes",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-67.68745, -67.68745]}, "type": "Feature", "properties": {"amenity": "41",
+"name": "Sayabec", "popupContent": "4a"}}, {"geometry": {"type": "Point",
+"coordinates": [-79.35825, -79.35825]}, "type": "Feature", "properties":
+{"amenity": "21", "name": "Dupuy", "popupContent": "2a"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.04905, -72.04905]}, "type": "Feature",
+"properties": {"amenity": "31", "name": "P\u00e9ribonka", "popupContent":
+"3a"}}, {"geometry": {"type": "Point", "coordinates": [-73.61588, -73.61588]},
+"type": "Feature", "properties": {"amenity": "58", "name": "Saint-R\u00e9mi",
+"popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates":
+[-53.63137, -53.63137]}, "type": "Feature", "properties": {"amenity": "46",
+"name": "Newport", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-67.7489, -67.7489]}, "type": "Feature", "properties":
+{"amenity": "39", "name": "Godbout", "popupContent": "3b"}}, {"geometry":
+{"type": "Point", "coordinates": [-70.30076, -70.30076]}, "type": "Feature",
+"properties": {"amenity": "39", "name": "Saint-Magloire", "popupContent":
+"3b"}}, {"geometry": {"type": "Point", "coordinates": [-69.01202, -69.01202]},
+"type": "Feature", "properties": {"amenity": "41", "name":
+"Rivi\u00e8re-Bleue", "popupContent": "4a"}}, {"geometry": {"type": "Point",
+"coordinates": [-72.0491, -72.0491]}, "type": "Feature", "properties":
+{"amenity": "46", "name": "Saint-Marc-des-Carri\u00e8res", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-70.95087, -70.95087]},
+"type": "Feature", "properties": {"amenity": "54", "name":
+"Saint-Michel-de-Bellechasse", "popupContent": "5a"}}, {"geometry": {"type":
+"Point", "coordinates": [-69.04392, -69.04392]}, "type": "Feature",
+"properties": {"amenity": "46", "name": "Saint-Jean-de-Dieu", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-72.073, -72.073]},
+"type": "Feature", "properties": {"amenity": "51", "name": "Kingsey Falls",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-69.59853, -69.59853]}, "type": "Feature", "properties": {"amenity": "4",
+"name": "Aupaluk", "popupContent": "0a"}}, {"geometry": {"type": "Point",
+"coordinates": [-73.16585, -73.16585]}, "type": "Feature", "properties":
+{"amenity": "58", "name": "Marieville", "popupContent": "5b"}}, {"geometry":
+{"type": "Point", "coordinates": [-73.24835, -73.24835]}, "type": "Feature",
+"properties": {"amenity": "58", "name": "Clarenceville", "popupContent":
+"5b"}}, {"geometry": {"type": "Point", "coordinates": [-65.44873, -65.44873]},
+"type": "Feature", "properties": {"amenity": "21", "name": "Taschereau",
+"popupContent": "2a"}}, {"geometry": {"type": "Point", "coordinates":
+[-71.17793, -71.17793]}, "type": "Feature", "properties": {"amenity": "54",
+"name": "L\u00e9vis", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-55.26502, -55.26502]}, "type": "Feature", "properties":
+{"amenity": "45", "name": "Otter Lake", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.43241, -72.43241]}, "type": "Feature",
+"properties": {"amenity": "52", "name": "B\u00e9cancour", "popupContent":
+"5a"}}, {"geometry": {"type": "Point", "coordinates": [-72.66582, -72.66582]},
+"type": "Feature", "properties": {"amenity": "53", "name": "Abercorn",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-68.9655, -68.9655]}, "type": "Feature", "properties": {"amenity": "48",
+"name": "Deschambault", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-67.08204, -67.08204]}, "type": "Feature", "properties":
+{"amenity": "9", "name": "Fermont", "popupContent": "0b"}}, {"geometry":
+{"type": "Point", "coordinates": [-76.01605, -76.01605]}, "type": "Feature",
+"properties": {"amenity": "49", "name": "Saint-Rapha\u00ebl", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-70.86667, -70.86667]},
+"type": "Feature", "properties": {"amenity": "47", "name":
+"Saint-Joseph-de-Beauce", "popupContent": "4b"}}, {"geometry": {"type":
+"Point", "coordinates": [-70.33232, -70.33232]}, "type": "Feature",
+"properties": {"amenity": "58", "name": "Saint-Louis-de-Gonzague",
+"popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.62888, -73.62888]}, "type": "Feature", "properties": {"amenity": "46",
+"name": "Saint-Antonin", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-70.7869, -70.7869]}, "type": "Feature", "properties":
+{"amenity": "43", "name": "Frampton", "popupContent": "4a"}}, {"geometry":
+{"type": "Point", "coordinates": [-66.0726, -66.0726]}, "type": "Feature",
+"properties": {"amenity": "53", "name": "Wickham", "popupContent": "5a"}},
+{"geometry": {"type": "Point", "coordinates": [-76.04936, -76.04936]}, "type":
+"Feature", "properties": {"amenity": "44", "name": "Gracefield",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.74913, -72.74913]}, "type": "Feature", "properties": {"amenity": "55",
+"name": "Cowansville", "popupContent": "5b"}}, {"geometry": {"type": "Point",
+"coordinates": [-72.14913, -72.14913]}, "type": "Feature", "properties":
+{"amenity": "48", "name": "Saint-Andr\u00e9", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-77.46616, -77.46616]}, "type":
+"Feature", "properties": {"amenity": "27", "name": "Louvicourt",
+"popupContent": "2b"}}, {"geometry": {"type": "Point", "coordinates":
+[-67.54626, -67.54626]}, "type": "Feature", "properties": {"amenity": "39",
+"name": "Val-Brillant", "popupContent": "3b"}}, {"geometry": {"type": "Point",
+"coordinates": [-75.24931, -75.24931]}, "type": "Feature", "properties":
+{"amenity": "52", "name": "Thurso", "popupContent": "5a"}}, {"geometry":
+{"type": "Point", "coordinates": [-74.22171, -74.22171]}, "type": "Feature",
+"properties": {"amenity": "37", "name": "Saint-Donat-de-Montcalm",
+"popupContent": "3b"}}, {"geometry": {"type": "Point", "coordinates":
+[-71.21567, -71.21567]}, "type": "Feature", "properties": {"amenity": "46",
+"name": "Saint-Sylvestre", "popupContent": "4b"}}, {"geometry": {"type":
+"Point", "coordinates": [-73.26259, -73.26259]}, "type": "Feature",
+"properties": {"amenity": "58", "name": "Saint-Jean-sur-Richelieu",
+"popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates":
+[-71.07674, -71.07674]}, "type": "Feature", "properties": {"amenity": "45",
+"name": "East Broughton", "popupContent": "4b"}}, {"geometry": {"type":
+"Point", "coordinates": [-66.68212, -66.68212]}, "type": "Feature",
+"properties": {"amenity": "45", "name": "Cap-Chat", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-74.00365, -74.00365]}, "type":
+"Feature", "properties": {"amenity": "53", "name": "Saint-J\u00e9r\u00f4me",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-76.03267, -76.03267]}, "type": "Feature", "properties": {"amenity": "48",
+"name": "Sainte-C\u00e9cile-de-Masham", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-75.116, -75.116]}, "type": "Feature",
+"properties": {"amenity": "52", "name": "Plaisance", "popupContent": "5a"}},
+{"geometry": {"type": "Point", "coordinates": [-76.59941, -76.59941]}, "type":
+"Feature", "properties": {"amenity": "48", "name": "Campbell's Bay",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-76.01606, -76.01606]}, "type": "Feature", "properties": {"amenity": "47",
+"name": "Low", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-79.02458, -79.02458]}, "type": "Feature", "properties":
+{"amenity": "43", "name": "Douglastown", "popupContent": "4a"}}, {"geometry":
+{"type": "Point", "coordinates": [-70.58823, -70.58823]}, "type": "Feature",
+"properties": {"amenity": "43", "name": "Bellarmin", "popupContent": "4a"}},
+{"geometry": {"type": "Point", "coordinates": [-65.33621, -65.33621]}, "type":
+"Feature", "properties": {"amenity": "49", "name": "New Carlisle",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.8725, -73.8725]}, "type": "Feature", "properties": {"amenity": "59",
+"name": "Beauharnois", "popupContent": "5b"}}, {"geometry": {"type": "Point",
+"coordinates": [-64.03203, -64.03203]}, "type": "Feature", "properties":
+{"amenity": "46", "name": "Inverness", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-70.85987, -70.85987]}, "type": "Feature",
+"properties": {"amenity": "50", "name": "Saint-Gervais", "popupContent":
+"5a"}}, {"geometry": {"type": "Point", "coordinates": [-70.37464, -70.37464]},
+"type": "Feature", "properties": {"amenity": "53", "name": "L'Islet-sur-Mer",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-67.23255, -67.23255]}, "type": "Feature", "properties": {"amenity": "36",
+"name": "Causapscal", "popupContent": "3b"}}, {"geometry": {"type": "Point",
+"coordinates": [-72.81583, -72.81583]}, "type": "Feature", "properties":
+{"amenity": "54", "name": "Pierreville", "popupContent": "5a"}}, {"geometry":
+{"type": "Point", "coordinates": [-69.50509, -69.50509]}, "type": "Feature",
+"properties": {"amenity": "49", "name": "Saint-Georges-de-Cacouna",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-77.63277, -77.63277]}, "type": "Feature", "properties": {"amenity": "20",
+"name": "Matagami", "popupContent": "2a"}}, {"geometry": {"type": "Point",
+"coordinates": [-72.76803, -72.76803]}, "type": "Feature", "properties":
+{"amenity": "55", "name": "Saint-Guillaume", "popupContent": "5b"}},
+{"geometry": {"type": "Point", "coordinates": [-73.33336, -73.33336]}, "type":
+"Feature", "properties": {"amenity": "37", "name": "Saint-Bruno",
+"popupContent": "3b"}}, {"geometry": {"type": "Point", "coordinates":
+[-71.67083, -71.67083]}, "type": "Feature", "properties": {"amenity": "31",
+"name": "L'Ascension", "popupContent": "3a"}}, {"geometry": {"type": "Point",
+"coordinates": [-72.99914, -72.99914]}, "type": "Feature", "properties":
+{"amenity": "57", "name": "Saint-C\u00e9saire", "popupContent": "5b"}},
+{"geometry": {"type": "Point", "coordinates": [-70.51573, -70.51573]}, "type":
+"Feature", "properties": {"amenity": "41", "name":
+"Saint-C\u00f4me--Lini\u00e8re", "popupContent": "4a"}}, {"geometry": {"type":
+"Point", "coordinates": [-57.13062, -57.13062]}, "type": "Feature",
+"properties": {"amenity": "36", "name": "Blanc-Sablon", "popupContent": "3b"}},
+{"geometry": {"type": "Point", "coordinates": [-63.68202, -63.68202]}, "type":
+"Feature", "properties": {"amenity": "44", "name": "Clermont", "popupContent":
+"4a"}}, {"geometry": {"type": "Point", "coordinates": [-64.14867, -64.14867]},
+"type": "Feature", "properties": {"amenity": "34", "name":
+"Longue-Pointe-de-Mingan", "popupContent": "3a"}}, {"geometry": {"type":
+"Point", "coordinates": [-75.64344, -75.64344]}, "type": "Feature",
+"properties": {"amenity": "0", "name": "Salluit", "popupContent": "0a"}},
+{"geometry": {"type": "Point", "coordinates": [-71.03219, -71.03219]}, "type":
+"Feature", "properties": {"amenity": "48", "name": "Ch\u00e2teau-Richer",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-64.87721, -64.87721]}, "type": "Feature", "properties": {"amenity": "47",
+"name": "Saint-Fabien", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-74.58248, -74.58248]}, "type": "Feature", "properties":
+{"amenity": "48", "name": "Scott", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-71.7239, -71.7239]}, "type": "Feature",
+"properties": {"amenity": "50", "name": "Donnacona", "popupContent": "5a"}},
+{"geometry": {"type": "Point", "coordinates": [-70.39867, -70.39867]}, "type":
+"Feature", "properties": {"amenity": "39", "name": "Saint-Hilarion",
+"popupContent": "3b"}}, {"geometry": {"type": "Point", "coordinates": [-78.9,
+-78.9]}, "type": "Feature", "properties": {"amenity": "13", "name":
+"Chisasibi", "popupContent": "1a"}}, {"geometry": {"type": "Point",
+"coordinates": [-67.1369, -67.1369]}, "type": "Feature", "properties":
+{"amenity": "43", "name": "Grosses-Roches", "popupContent": "4a"}},
+{"geometry": {"type": "Point", "coordinates": [-72.83243, -72.83243]}, "type":
+"Feature", "properties": {"amenity": "56", "name": "Farnham", "popupContent":
+"5b"}}, {"geometry": {"type": "Point", "coordinates": [-74.36586, -74.36586]},
+"type": "Feature", "properties": {"amenity": "23", "name": "Chibougamau",
+"popupContent": "2a"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.0766, -72.0766]}, "type": "Feature", "properties": {"amenity": "46",
+"name": "Saint-Alban", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-70.02626, -70.02626]}, "type": "Feature", "properties":
+{"amenity": "2", "name": "Kangirsuk", "popupContent": "0a"}}, {"geometry":
+{"type": "Point", "coordinates": [-73.88199, -73.88199]}, "type": "Feature",
+"properties": {"amenity": "46", "name": "Grande-Vall\u00e9e", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-66.98214, -66.98214]},
+"type": "Feature", "properties": {"amenity": "43", "name": "Les M\u00e9chins",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-61.74851, -61.74851]}, "type": "Feature", "properties": {"amenity": "-999",
+"name": "Natashquan", "popupContent": ""}}, {"geometry": {"type": "Point",
+"coordinates": [-72.13239, -72.13239]}, "type": "Feature", "properties":
+{"amenity": "48", "name": "Daveluyville", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-64.67926, -64.67926]}, "type": "Feature",
+"properties": {"amenity": "47", "name": "Chandler", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-78.10139, -78.10139]}, "type":
+"Feature", "properties": {"amenity": "0", "name": "Inukjuak", "popupContent":
+"0a"}}, {"geometry": {"type": "Point", "coordinates": [-79.48296, -79.48296]},
+"type": "Feature", "properties": {"amenity": "37", "name":
+"Notre-Dame-du-Nord", "popupContent": "3b"}}, {"geometry": {"type": "Point",
+"coordinates": [-83.4331, -83.4331]}, "type": "Feature", "properties":
+{"amenity": "38", "name": "Panet", "popupContent": "3b"}}, {"geometry":
+{"type": "Point", "coordinates": [-74.16906, -74.16906]}, "type": "Feature",
+"properties": {"amenity": "41", "name": "Pointe-aux-Anglais", "popupContent":
+"4a"}}, {"geometry": {"type": "Point", "coordinates": [-70.06186, -70.06186]},
+"type": "Feature", "properties": {"amenity": "49", "name": "La Pocati\u00e8re",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.58242, -72.58242]}, "type": "Feature", "properties": {"amenity": "51",
+"name": "Brome", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-64.93203, -64.93203]}, "type": "Feature", "properties":
+{"amenity": "39", "name": "Les \u00c9troits", "popupContent": "3b"}},
+{"geometry": {"type": "Point", "coordinates": [-64.11542, -64.11542]}, "type":
+"Feature", "properties": {"amenity": "35", "name": "Alma", "popupContent":
+"3b"}}, {"geometry": {"type": "Point", "coordinates": [-71.99907, -71.99907]},
+"type": "Feature", "properties": {"amenity": "53", "name": "Qu\u00e9bec",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-64.91539, -64.91539]}, "type": "Feature", "properties": {"amenity": "41",
+"name": "Cloridorme", "popupContent": "4a"}}, {"geometry": {"type": "Point",
+"coordinates": [-72.06583, -72.06583]}, "type": "Feature", "properties":
+{"amenity": "37", "name": "Chambord", "popupContent": "3b"}}, {"geometry":
+{"type": "Point", "coordinates": [-67.17258, -67.17258]}, "type": "Feature",
+"properties": {"amenity": "49", "name": "Champlain", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-71.11576, -71.11576]}, "type":
+"Feature", "properties": {"amenity": "31", "name": "Saint-David-de-Falardeau",
+"popupContent": "3a"}}, {"geometry": {"type": "Point", "coordinates":
+[-74.33253, -74.33253]}, "type": "Feature", "properties": {"amenity": "53",
+"name": "Lachute", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-71.89011, -71.89011]}, "type": "Feature", "properties":
+{"amenity": "48", "name": "Portneuf", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-79.19964, -79.19964]}, "type": "Feature",
+"properties": {"amenity": "21", "name": "La Sarre", "popupContent": "2a"}},
+{"geometry": {"type": "Point", "coordinates": [-62.4119, -62.4119]}, "type":
+"Feature", "properties": {"amenity": "45", "name": "Tee Lake", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-73.13244, -73.13244]},
+"type": "Feature", "properties": {"amenity": "44", "name":
+"Saint-Alexis-des-Monts", "popupContent": "4a"}}, {"geometry": {"type":
+"Point", "coordinates": [-64.53068, -64.53068]}, "type": "Feature",
+"properties": {"amenity": "46", "name": "Grande-Rivi\u00e8re", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-75.62189, -75.62189]},
+"type": "Feature", "properties": {"amenity": "50", "name": "Perkins",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.1905, -72.1905]}, "type": "Feature", "properties": {"amenity": "51",
+"name": "Saint-F\u00e9lix-de-Kingsey", "popupContent": "5a"}}, {"geometry":
+{"type": "Point", "coordinates": [-73.79401, -73.79401]}, "type": "Feature",
+"properties": {"amenity": "30", "name": "Sanmaur", "popupContent": "3a"}},
+{"geometry": {"type": "Point", "coordinates": [-79.33296, -79.33296]}, "type":
+"Feature", "properties": {"amenity": "38", "name": "Fabre", "popupContent":
+"3b"}}, {"geometry": {"type": "Point", "coordinates": [-72.80523, -72.80523]},
+"type": "Feature", "properties": {"amenity": "48", "name":
+"Saint-\u00c9douard", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-68.8781, -68.8781]}, "type": "Feature", "properties":
+{"amenity": "42", "name": "Cabano", "popupContent": "4a"}}, {"geometry":
+{"type": "Point", "coordinates": [-67.33658, -67.33658]}, "type": "Feature",
+"properties": {"amenity": "45", "name": "Sainte-F\u00e9licit\u00e9",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.53086, -73.53086]}, "type": "Feature", "properties": {"amenity": "44",
+"name": "Saint-Jean-de-Matha", "popupContent": "4a"}}, {"geometry": {"type":
+"Point", "coordinates": [-72.58219, -72.58219]}, "type": "Feature",
+"properties": {"amenity": "29", "name": "Normandin", "popupContent": "2b"}},
+{"geometry": {"type": "Point", "coordinates": [-74.63384, -74.63384]}, "type":
+"Feature", "properties": {"amenity": "44", "name": "Huberdeau", "popupContent":
+"4a"}}, {"geometry": {"type": "Point", "coordinates": [-72.1158, -72.1158]},
+"type": "Feature", "properties": {"amenity": "48", "name":
+"Deschaillons-sur-Saint-Laurent", "popupContent": "4b"}}, {"geometry": {"type":
+"Point", "coordinates": [-58.96495, -58.96495]}, "type": "Feature",
+"properties": {"amenity": "36", "name": "La Tabati\u00e8re", "popupContent":
+"3b"}}, {"geometry": {"type": "Point", "coordinates": [-67.82769, -67.82769]},
+"type": "Feature", "properties": {"amenity": "42", "name": "Saint-No\u00ebl",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-69.87837, -69.87837]}, "type": "Feature", "properties": {"amenity": "45",
+"name": "Saint-Sim\u00e9on", "popupContent": "4b"}}, {"geometry": {"type":
+"Point", "coordinates": [-71.76987, -71.76987]}, "type": "Feature",
+"properties": {"amenity": "47", "name": "Dixville", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-71.28236, -71.28236]}, "type":
+"Feature", "properties": {"amenity": "46", "name": "Scotstown", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-72.91584, -72.91584]},
+"type": "Feature", "properties": {"amenity": "56", "name": "Yamaska",
+"popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates":
+[-74.29983, -74.29983]}, "type": "Feature", "properties": {"amenity": "54",
+"name": "Rigaud", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-79.24964, -79.24964]}, "type": "Feature", "properties":
+{"amenity": "31", "name": "Rollet", "popupContent": "3a"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.53832, -72.53832]}, "type": "Feature",
+"properties": {"amenity": "43", "name": "Saint-Odilon", "popupContent": "4a"}},
+{"geometry": {"type": "Point", "coordinates": [-78.50942, -78.50942]}, "type":
+"Feature", "properties": {"amenity": "15", "name": "Eastmain", "popupContent":
+"1b"}}, {"geometry": {"type": "Point", "coordinates": [-67.70226, -67.70226]},
+"type": "Feature", "properties": {"amenity": "45", "name": "Saint-Ulric",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.1324, -72.1324]}, "type": "Feature", "properties": {"amenity": "47",
+"name": "Saint-Casimir", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-78.56629, -78.56629]}, "type": "Feature", "properties":
+{"amenity": "32", "name": "Winneway", "popupContent": "3a"}}, {"geometry":
+{"type": "Point", "coordinates": [-80.14968, -80.14968]}, "type": "Feature",
+"properties": {"amenity": "52", "name": "L'Islet", "popupContent": "5a"}},
+{"geometry": {"type": "Point", "coordinates": [-73.45167, -73.45167]}, "type":
+"Feature", "properties": {"amenity": "60", "name": "Boucherville",
+"popupContent": "6a"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.82924, -72.82924]}, "type": "Feature", "properties": {"amenity": "53",
+"name": "Yamachiche", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-72.89913, -72.89913]}, "type": "Feature", "properties":
+{"amenity": "56", "name": "Saint-Pie", "popupContent": "5b"}}, {"geometry":
+{"type": "Point", "coordinates": [-74.21592, -74.21592]}, "type": "Feature",
+"properties": {"amenity": "42", "name": "Val-David", "popupContent": "4a"}},
+{"geometry": {"type": "Point", "coordinates": [-77.06615, -77.06615]}, "type":
+"Feature", "properties": {"amenity": "47", "name": "Chapeau", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-72.50742, -72.50742]},
+"type": "Feature", "properties": {"amenity": "51", "name":
+"Cap-de-la-Madeleine", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-70.38116, -70.38116]}, "type": "Feature", "properties":
+{"amenity": "51", "name": "Saint-Bernard-sur-Mer", "popupContent": "5a"}},
+{"geometry": {"type": "Point", "coordinates": [-59.47801, -59.47801]}, "type":
+"Feature", "properties": {"amenity": "37", "name": "Harrington Harbour",
+"popupContent": "3b"}}, {"geometry": {"type": "Point", "coordinates":
+[-70.08753, -70.08753]}, "type": "Feature", "properties": {"amenity": "39",
+"name": "Saint-Just-de-Breteni\u00e8res", "popupContent": "3b"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.09078, -72.09078]}, "type": "Feature",
+"properties": {"amenity": "49", "name": "Stanstead Plain", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-69.54243, -69.54243]},
+"type": "Feature", "properties": {"amenity": "49", "name":
+"Rivi\u00e8re-du-Loup", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-79.04961, -79.04961]}, "type": "Feature", "properties":
+{"amenity": "41", "name": "Notre-Dame-du-Lac", "popupContent": "4a"}},
+{"geometry": {"type": "Point", "coordinates": [-73.31356, -73.31356]}, "type":
+"Feature", "properties": {"amenity": "40", "name": "La Baie", "popupContent":
+"4a"}}, {"geometry": {"type": "Point", "coordinates": [-66.06548, -66.06548]},
+"type": "Feature", "properties": {"amenity": "44", "name": "Marsoui",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.5477, -72.5477]}, "type": "Feature", "properties": {"amenity": "52",
+"name": "Trois-Rivi\u00e8res", "popupContent": "5a"}}, {"geometry": {"type":
+"Point", "coordinates": [-79.23295, -79.23295]}, "type": "Feature",
+"properties": {"amenity": "36", "name": "Angliers", "popupContent": "3b"}},
+{"geometry": {"type": "Point", "coordinates": [-68.91451, -68.91451]}, "type":
+"Feature", "properties": {"amenity": "44", "name": "Colombier", "popupContent":
+"4a"}}, {"geometry": {"type": "Point", "coordinates": [-72.64912, -72.64912]},
+"type": "Feature", "properties": {"amenity": "54", "name": "Bromont",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.09914, -73.09914]}, "type": "Feature", "properties": {"amenity": "57",
+"name": "Sainte-Madeleine", "popupContent": "5b"}}, {"geometry": {"type":
+"Point", "coordinates": [-69.15507, -69.15507]}, "type": "Feature",
+"properties": {"amenity": "41", "name": "Sully", "popupContent": "4a"}},
+{"geometry": {"type": "Point", "coordinates": [-71.96579, -71.96579]}, "type":
+"Feature", "properties": {"amenity": "49", "name": "Victoriaville",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-76.73272, -76.73272]}, "type": "Feature", "properties": {"amenity": "47",
+"name": "Fort-Coulonge", "popupContent": "4b"}}, {"geometry": {"type": "Point",
+"coordinates": [-71.9324, -71.9324]}, "type": "Feature", "properties":
+{"amenity": "49", "name": "Asbestos", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-67.85628, -67.85628]}, "type": "Feature",
+"properties": {"amenity": "46", "name": "Baie-des-Sables", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-71.80799, -71.80799]},
+"type": "Feature", "properties": {"amenity": "48", "name": "Wotton",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-74.39392, -74.39392]}, "type": "Feature", "properties": {"amenity": "29",
+"name": "Manouane", "popupContent": "2b"}}, {"geometry": {"type": "Point",
+"coordinates": [-73.56588, -73.56588]}, "type": "Feature", "properties":
+{"amenity": "58", "name": "Saint-Michel", "popupContent": "5b"}}, {"geometry":
+{"type": "Point", "coordinates": [-71.08236, -71.08236]}, "type": "Feature",
+"properties": {"amenity": "47", "name": "Lambton", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-78.75, -78.75]}, "type":
+"Feature", "properties": {"amenity": "19", "name": "Waskaganish",
+"popupContent": "1b"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.60948, -73.60948]}, "type": "Feature", "properties": {"amenity": "44",
+"name": "Saint-Raymond", "popupContent": "4a"}}, {"geometry": {"type": "Point",
+"coordinates": [-61.79095, -61.79095]}, "type": "Feature", "properties":
+{"amenity": "59", "name": "Pointe-Basse", "popupContent": "5b"}}, {"geometry":
+{"type": "Point", "coordinates": [-75.4993, -75.4993]}, "type": "Feature",
+"properties": {"amenity": "40", "name": "Mont-Laurier", "popupContent": "4a"}},
+{"geometry": {"type": "Point", "coordinates": [-61.54024, -61.54024]}, "type":
+"Feature", "properties": {"amenity": "-999", "name": "Grande-Entr\u00e9e",
+"popupContent": ""}}, {"geometry": {"type": "Point", "coordinates": [-73.8492,
+-73.8492]}, "type": "Feature", "properties": {"amenity": "58", "name":
+"Howick", "popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates":
+[-70.99906, -70.99906]}, "type": "Feature", "properties": {"amenity": "54",
+"name": "Aylmer", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-74.24924, -74.24924]}, "type": "Feature", "properties":
+{"amenity": "56", "name": "Saint-Zotique", "popupContent": "5b"}}, {"geometry":
+{"type": "Point", "coordinates": [-70.31363, -70.31363]}, "type": "Feature",
+"properties": {"amenity": "51", "name": "Saint-Jean-Port-Joli", "popupContent":
+"5a"}}, {"geometry": {"type": "Point", "coordinates": [-71.87488, -71.87488]},
+"type": "Feature", "properties": {"amenity": "54", "name": "Sainte-Famille",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-70.94905, -70.94905]}, "type": "Feature", "properties": {"amenity": "46",
+"name": "Saint-\u00c9phrem-de-Beauce", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-65.0, -65.0]}, "type": "Feature",
+"properties": {"amenity": "56", "name": "Saint-Paul", "popupContent": "5b"}},
+{"geometry": {"type": "Point", "coordinates": [-72.16579, -72.16579]}, "type":
+"Feature", "properties": {"amenity": "52", "name": "Magog", "popupContent":
+"5a"}}, {"geometry": {"type": "Point", "coordinates": [-73.91589, -73.91589]},
+"type": "Feature", "properties": {"amenity": "34", "name":
+"Saint-Michel-des-Saints", "popupContent": "3a"}}, {"geometry": {"type":
+"Point", "coordinates": [-74.87116, -74.87116]}, "type": "Feature",
+"properties": {"amenity": "37", "name": "L'Annonciation", "popupContent":
+"3b"}}, {"geometry": {"type": "Point", "coordinates": [-73.38245, -73.38245]},
+"type": "Feature", "properties": {"amenity": "45", "name": "Saint-Gabriel",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.43241, -72.43241]}, "type": "Feature", "properties": {"amenity": "51",
+"name": "Saint-C\u00e9lestin", "popupContent": "5a"}}, {"geometry": {"type":
+"Point", "coordinates": [-73.72698, -73.72698]}, "type": "Feature",
+"properties": {"amenity": "45", "name": "Saint-Elz\u00e9ar", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-72.83243, -72.83243]},
+"type": "Feature", "properties": {"amenity": "46", "name": "Shawinigan",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-78.69961, -78.69961]}, "type": "Feature", "properties": {"amenity": "32",
+"name": "Belleterre", "popupContent": "3a"}}, {"geometry": {"type": "Point",
+"coordinates": [-73.18245, -73.18245]}, "type": "Feature", "properties":
+{"amenity": "57", "name": "Henryville", "popupContent": "5b"}}, {"geometry":
+{"type": "Point", "coordinates": [-65.73841, -65.73841]}, "type": "Feature",
+"properties": {"amenity": "44", "name": "Mont-Louis", "popupContent": "4a"}},
+{"geometry": {"type": "Point", "coordinates": [-72.76163, -72.76163]}, "type":
+"Feature", "properties": {"amenity": "55", "name": "Saint-Liboire",
+"popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.38491, -72.38491]}, "type": "Feature", "properties": {"amenity": "45",
+"name": "Saint-Stanislas-de-Champlain", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-67.34756, -67.34756]}, "type": "Feature",
+"properties": {"amenity": "37", "name": "Lac-au-Saumon", "popupContent":
+"3b"}}, {"geometry": {"type": "Point", "coordinates": [-68.14894, -68.14894]},
+"type": "Feature", "properties": {"amenity": "40", "name": "Baie-Comeau",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-69.71667, -69.71667]}, "type": "Feature", "properties": {"amenity": "40",
+"name": "Tadoussac", "popupContent": "4a"}}, {"geometry": {"type": "Point",
+"coordinates": [-73.40468, -73.40468]}, "type": "Feature", "properties":
+{"amenity": "58", "name": "Napierville", "popupContent": "5b"}}, {"geometry":
+{"type": "Point", "coordinates": [-73.81339, -73.81339]}, "type": "Feature",
+"properties": {"amenity": "55", "name": "Sainte-Anne-des-Plaines",
+"popupContent": "5b"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.28246, -73.28246]}, "type": "Feature", "properties": {"amenity": "59",
+"name": "Chambly", "popupContent": "5b"}}, {"geometry": {"type": "Point",
+"coordinates": [-71.56656, -71.56656]}, "type": "Feature", "properties":
+{"amenity": "48", "name": "Sawyerville", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-65.68434, -65.68434]}, "type": "Feature",
+"properties": {"amenity": "47", "name": "Caplan", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-71.67865, -71.67865]}, "type":
+"Feature", "properties": {"amenity": "47", "name": "Laurierville",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-68.18008, -68.18008]}, "type": "Feature", "properties": {"amenity": "41",
+"name": "Saint-Gabriel-de-Rimouski", "popupContent": "4a"}}, {"geometry":
+{"type": "Point", "coordinates": [-72.61582, -72.61582]}, "type": "Feature",
+"properties": {"amenity": "52", "name": "Sutton", "popupContent": "5a"}},
+{"geometry": {"type": "Point", "coordinates": [-71.06369, -71.06369]}, "type":
+"Feature", "properties": {"amenity": "39", "name": "Chicoutimi",
+"popupContent": "3b"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.96584, -72.96584]}, "type": "Feature", "properties": {"amenity": "44",
+"name": "Saint-\u00c9lie", "popupContent": "4a"}}, {"geometry": {"type":
+"Point", "coordinates": [-71.1206, -71.1206]}, "type": "Feature", "properties":
+{"amenity": "54", "name": "Sainte-P\u00e9tronille", "popupContent": "5a"}},
+{"geometry": {"type": "Point", "coordinates": [-71.2873, -71.2873]}, "type":
+"Feature", "properties": {"amenity": "48", "name": "Thetford Mines",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-65.2872, -65.2872]}, "type": "Feature", "properties": {"amenity": "49",
+"name": "Pasp\u00e9biac", "popupContent": "4b"}}, {"geometry": {"type":
+"Point", "coordinates": [-67.43134, -67.43134]}, "type": "Feature",
+"properties": {"amenity": "37", "name": "Amqui", "popupContent": "3b"}},
+{"geometry": {"type": "Point", "coordinates": [-74.08251, -74.08251]}, "type":
+"Feature", "properties": {"amenity": "54", "name": "Mirabel", "popupContent":
+"5a"}}, {"geometry": {"type": "Point", "coordinates": [-70.55493, -70.55493]},
+"type": "Feature", "properties": {"amenity": "52", "name": "Montmagny",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-76.98273, -76.98273]}, "type": "Feature", "properties": {"amenity": "26",
+"name": "Lebel-sur-Qu\u00e9villon", "popupContent": "2b"}}, {"geometry":
+{"type": "Point", "coordinates": [-71.42175, -71.42175]}, "type": "Feature",
+"properties": {"amenity": "48", "name": "Sainte-Agathe-de-Lotbini\u00e8re",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.34911, -72.34911]}, "type": "Feature", "properties": {"amenity": "51",
+"name": "Lawrenceville", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-71.31577, -71.31577]}, "type": "Feature", "properties":
+{"amenity": "31", "name": "B\u00e9gin", "popupContent": "3a"}}, {"geometry":
+{"type": "Point", "coordinates": [-73.58248, -73.58248]}, "type": "Feature",
+"properties": {"amenity": "57", "name": "Hemmingford", "popupContent": "5b"}},
+{"geometry": {"type": "Point", "coordinates": [-69.1711, -69.1711]}, "type":
+"Feature", "properties": {"amenity": "41", "name":
+"Saint-Hubert-de-Rivi\u00e8re-du-Loup", "popupContent": "4a"}}, {"geometry":
+{"type": "Point", "coordinates": [-65.79969, -65.79969]}, "type": "Feature",
+"properties": {"amenity": "-999", "name": "New Richmond", "popupContent": ""}},
+{"geometry": {"type": "Point", "coordinates": [-72.066, -72.066]}, "type":
+"Feature", "properties": {"amenity": "54", "name": "Saint-Jacques",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.41535, -72.41535]}, "type": "Feature", "properties": {"amenity": "29",
+"name": "Albanel", "popupContent": "2b"}}, {"geometry": {"type": "Point",
+"coordinates": [-69.92764, -69.92764]}, "type": "Feature", "properties":
+{"amenity": "4", "name": "Tasiujaq", "popupContent": "0a"}}, {"geometry":
+{"type": "Point", "coordinates": [-73.51806, -73.51806]}, "type": "Feature",
+"properties": {"amenity": "61", "name": "Longueuil", "popupContent": "6a"}},
+{"geometry": {"type": "Point", "coordinates": [-73.51527, -73.51527]}, "type":
+"Feature", "properties": {"amenity": "46", "name": "Saint-Victor",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-74.14922, -74.14922]}, "type": "Feature", "properties": {"amenity": "56",
+"name": "Hudson", "popupContent": "5b"}}, {"geometry": {"type": "Point",
+"coordinates": [-71.91581, -71.91581]}, "type": "Feature", "properties":
+{"amenity": "49", "name": "Tingwick", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-71.33238, -71.33238]}, "type": "Feature",
+"properties": {"amenity": "34", "name": "Saint-Ambroise", "popupContent":
+"3a"}}, {"geometry": {"type": "Point", "coordinates": [-68.43226, -68.43226]},
+"type": "Feature", "properties": {"amenity": "43", "name":
+"Pointe-aux-Outardes", "popupContent": "4a"}}, {"geometry": {"type": "Point",
+"coordinates": [-70.41929, -70.41929]}, "type": "Feature", "properties":
+{"amenity": "41", "name": "Notre-Dame-des-Monts", "popupContent": "4a"}},
+{"geometry": {"type": "Point", "coordinates": [-74.86598, -74.86598]}, "type":
+"Feature", "properties": {"amenity": "40", "name": "Saint-Fid\u00e8le",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-73.43246, -73.43246]}, "type": "Feature", "properties": {"amenity": "56",
+"name": "L'Assomption", "popupContent": "5b"}}, {"geometry": {"type": "Point",
+"coordinates": [-78.06623, -78.06623]}, "type": "Feature", "properties":
+{"amenity": "46", "name": "Maria", "popupContent": "4b"}}, {"geometry":
+{"type": "Point", "coordinates": [-75.9605, -75.9605]}, "type": "Feature",
+"properties": {"amenity": "25", "name": "Waswanipi", "popupContent": "2b"}},
+{"geometry": {"type": "Point", "coordinates": [-73.68249, -73.68249]}, "type":
+"Feature", "properties": {"amenity": "57", "name":
+"Sainte-Clotilde-de-Ch\u00e2teauguay", "popupContent": "5b"}}, {"geometry":
+{"type": "Point", "coordinates": [-71.6991, -71.6991]}, "type": "Feature",
+"properties": {"amenity": "33", "name": "Saint-Coeur-de-Marie", "popupContent":
+"3a"}}, {"geometry": {"type": "Point", "coordinates": [-72.2741, -72.2741]},
+"type": "Feature", "properties": {"amenity": "49", "name": "Gentilly",
+"popupContent": "4b"}}, {"geometry": {"type": "Point", "coordinates":
+[-65.35158, -65.35158]}, "type": "Feature", "properties": {"amenity": "44",
+"name": "Madeleine-Centre", "popupContent": "4a"}}, {"geometry": {"type":
+"Point", "coordinates": [-69.30419, -69.30419]}, "type": "Feature",
+"properties": {"amenity": "48", "name": "Saint-\u00c9piphane", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-66.96011, -66.96011]},
+"type": "Feature", "properties": {"amenity": "41", "name": "Matap\u00e9dia",
+"popupContent": "4a"}}, {"geometry": {"type": "Point", "coordinates":
+[-76.23361, -76.23361]}, "type": "Feature", "properties": {"amenity": "52",
+"name": "Quyon", "popupContent": "5a"}}, {"geometry": {"type": "Point",
+"coordinates": [-77.88281, -77.88281]}, "type": "Feature", "properties":
+{"amenity": "24", "name": "Landrienne", "popupContent": "2a"}}, {"geometry":
+{"type": "Point", "coordinates": [-73.45008, -73.45008]}, "type": "Feature",
+"properties": {"amenity": "57", "name": "Repentigny", "popupContent": "5b"}},
+{"geometry": {"type": "Point", "coordinates": [-67.52197, -67.52197]}, "type":
+"Feature", "properties": {"amenity": "46", "name": "Matane", "popupContent":
+"4b"}}, {"geometry": {"type": "Point", "coordinates": [-62.80727, -62.80727]},
+"type": "Feature", "properties": {"amenity": "34", "name": "Baie-Johan-Beetz",
+"popupContent": "3a"}}, {"geometry": {"type": "Point", "coordinates":
+[-60.96583, -60.96583]}, "type": "Feature", "properties": {"amenity": "61",
+"name": "La Prairie", "popupContent": "6a"}}, {"geometry": {"type": "Point",
+"coordinates": [-70.84858, -70.84858]}, "type": "Feature", "properties":
+{"amenity": "44", "name": "Lac-Drolet", "popupContent": "4a"}}, {"geometry":
+{"type": "Point", "coordinates": [-71.61266, -71.61266]}, "type": "Feature",
+"properties": {"amenity": "47", "name": "Lyster", "popupContent": "4b"}},
+{"geometry": {"type": "Point", "coordinates": [-71.98032, -71.98032]}, "type":
+"Feature", "properties": {"amenity": "50", "name": "North Hatley",
+"popupContent": "5a"}}, {"geometry": {"type": "Point", "coordinates":
+[-72.54893, -72.54893]}, "type": "Feature", "properties": {"amenity": "25",
+"name": "Girardville", "popupContent": "2b"}}, {"geometry": {"type": "Point",
+"coordinates": [-74.93258, -74.93258]}, "type": "Feature", "properties":
+{"amenity": "50", "name": "Montebello", "popupContent": "5a"}}, {"geometry":
+{"type": "Point", "coordinates": [-70.009, -70.009]}, "type": "Feature",
+"properties": {"amenity": "50", "name": "Rivi\u00e8re-Ouelle", "popupContent":
+"5a"}}]}
