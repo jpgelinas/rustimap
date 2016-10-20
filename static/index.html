@@ -73,8 +73,8 @@ legend.onAdd = function (mymap) {
 
     for (var i = 0; i < categories.length; i++) {
         div.innerHTML +=
-            '<i style="background-color:' + colors[categories[i]] + '"> ' +
-             (categories[i] ? categories[i] + '</i><br>' : '+');
+            '<i style="padding:0.2em 0.5em; background-color:' + colors[categories[i]] + '"> ' +
+             (categories[i] ? categories[i] + '</i><br />' : '+');
     }
 
     return div;
