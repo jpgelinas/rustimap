@@ -12,6 +12,7 @@
 	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
 	<script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
 	<script src="cities.geojson" type="text/javascript"></script>
+	<script src="js/Leaflet.heat/dist/leaflet-heat.js"></script>
 
 </head>
 <body>
@@ -20,6 +21,17 @@
 
 <div id="mapid" style="width: 800px; height: 600px;"></div>
 <script>
+
+	function geoJson2heat(geojson) {
+		return geojson.features.map(function(feature) {
+			return [
+				feature.geometry.coordinates[1],
+				feature.geometry.coordinates[0],
+				feature.properties['rusticity']*2
+			];
+		});
+	}
+	var heated_cities = geoJson2heat(cities)
 
 	var mymap = L.map('mapid').setView([45.2618, -72.2214], 10);
 
@@ -31,55 +43,8 @@
 		id: 'mapbox.streets'
 	}).addTo(mymap);
 
-  var myStyle = {
-	};
+var heat = L.heatLayer(heated_cities, {radius:25}).addTo(mymap);
 
-
-	var colors = {
-		'1a': 'aqua',
-		'1b': 'teal',
-		'2a': 'blue',
-		'2b': 'navy',
-		'3a': 'olive',
-		'3b': 'green',
-		'4a': 'fuchsia',
-		'4b': 'purple',
-		'5a': 'yellow',
-		'5b': 'orange',
-		'6a': 'red',
-	};
-
-L.geoJson(cities, {
-	style: myStyle,
-		pointToLayer: function (feature, latlng) {
-						
-        return new L.circleMarker(latlng, {
-					radius: 2,
-					fillColor: colors[feature.properties.popupContent],
-					color: colors[feature.properties.popupContent],
-					weight: 5,
-					opacity: feature.properties.rusticity*0.01,
-					fillOpacity: feature.properties.rusticity*0.01
-				});
-    }
-}).addTo(mymap);
-
-var legend = L.control({position: 'bottomleft'});
-
-legend.onAdd = function (mymap) {
-
-  var div = L.DomUtil.create('div', 'info legend');
-  var categories = ['1a','1b', '2a', '2b', '3a','3b','4a', '4b', '5a', '5b', '6a'];
-
-    for (var i = 0; i < categories.length; i++) {
-        div.innerHTML +=
-            '<i style="padding:0.2em 0.5em; background-color:' + colors[categories[i]] + '"> ' +
-             (categories[i] ? categories[i] + '</i><br />' : '+');
-    }
-
-    return div;
-}
-legend.addTo(mymap);
 
 </script>
 
