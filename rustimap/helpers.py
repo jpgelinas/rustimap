@@ -79,12 +79,16 @@ def persist_cities(known_cities):
 
     for city_name in known_cities:
         c = known_cities[city_name]
+        nb_coordinates = len(c) - 2
         zone = c[0]
         rusticity = c[1]
-        if(len(c) > 2 and len(c[2]) == 2):
-            geojson_cities.append(get_geojson_city(city_name, c[0], c[1], c[2][0], c[2][1]))
-        else:
-            print("%s has no x,y data: %s" % (city_name, c))
+
+        for coordinate in range(nb_coordinates,0,-1):
+            if(len(c[coordinate])  == 2):
+                geojson_cities.append(get_geojson_city(city_name, c[0], c[1],
+                    c[coordinate][0], c[coordinate][1]))
+            else:
+                print("%s has no x,y data: %s" % (city_name, c))
 
     with open('../static/cities_raw.geojson', 'w') as f:
         json.dump(geojson_cities, f)
