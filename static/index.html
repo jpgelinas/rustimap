@@ -12,6 +12,7 @@
 	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
 	<script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
 	<script src="cities.geojson" type="text/javascript"></script>
+	<script src="js/chroma.js/chroma.js" type="text/javascript"></script>
 
 </head>
 <body>
@@ -54,13 +55,15 @@ L.geoJson(cities, {
 		pointToLayer: function (feature, latlng) {
 						
         return new L.circleMarker(latlng, {
-					radius: 2,
+					radius: 5,
+					color: chroma.temperature(20000 - 307*feature.properties.rusticity),
 					fillColor: colors[feature.properties.popupContent],
-					color: colors[feature.properties.popupContent],
-					weight: 5,
-					opacity: feature.properties.rusticity*0.01,
-					fillOpacity: feature.properties.rusticity*0.01
+					weight: 6,
+					fillOpacity: 1
 				});
+    },
+		onEachFeature: function (feature, layer) {
+        layer.bindPopup(feature.properties.name + ' / ' + feature.properties.popupContent + " / " + feature.properties.rusticity);
     }
 }).addTo(mymap);
 
